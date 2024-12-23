@@ -1,4 +1,8 @@
-## Current Research Focus
+---
+title: " "
+permalink: ""
+layout:  page
+---
 
 Currently, I am working on the following topics and their applications in healthcare, IIoT, and Fusion energy. These can be categorized into four main areas:
 
