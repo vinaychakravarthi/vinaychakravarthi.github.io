@@ -65,17 +65,17 @@ layout: page
 
 **[J29]** **V. C. Gogineni**, E. Nadimi, "Efficient knowledge deletion from trained models through layer-wise partial machine unlearning," *Journal of Machine Learning Research*, 2024 (Revised and Submitted).
 
-**[J30]** **V. C. Gogineni**, J-M Braun, and E. Nadimi, "Artificial intelligence-driven colorectal polyp characterization in colon capsule endoscopy," *Artificial Intelligence in Medicine*, 2024 (Submitted).
+**[J30]** **V. C. Gogineni**, J-M Braun, B. S. Olesenand, G. Baatrup and E. Nadimi, "Enhancing polyp characterization in colon capsule endoscopy using ResNet9-KAN," *Knowledge-based Systems*, 2024 (Submitted).
 
 **[J31]** E. Lari, **V. C. Gogineni**, R. Arablouei and S. Werner, "Resilience in online federated learning: Mitigating model-poisoning attacks via partial sharing," *IEEE Trans. Signal and Info. Process.*, 2024 (Submitted).
 
-**[J32]** M. S. Cheema, A. Chawla, **V. C. Gogineni**, P. S. Rossi, "Region-specific reliable channel estimation in RIS-enabled wireless communications via clustered federated learning," *IEEE Trans. Communications*, 2024 (Submitted).
+**[J32]** M. S. Cheema, A. Chawla, **V. C. Gogineni**, P. S. Rossi, "Region-specific reliable channel estimation in RIS-enabled wireless communications via clustered federated learning," *IEEE Internet of Things J.*, 2024 (Submitted).
 
-**[J30]** E. Lari, **V. C. Gogineni**, R. Arablouei and S. Werner, "Noise-robust and resource-efficient ADMM-based federated learning," *IEEE Open J. Signal Processing*, 2024 (Submitted).
+**[J33]** E. Lari, **V. C. Gogineni**, R. Arablouei and S. Werner, "Noise-robust and resource-efficient ADMM-based federated learning," *IEEE Open J. Signal Processing*, 2024 (Submitted).
 
-**[J33]** M. Parsayan, P. F. Høilund-Carlsen, **V. C. Gogineni**, and S. Andalib, "Classification of Alzheimer’s disease, mild cognitive impairment, and healthy subjects using a multimodal dataset and multi-class machine learning algorithms," 2024 (Submitted).
+**[J34]** M. Parsayan, P. F. Høilund-Carlsen, **V. C. Gogineni**, and S. Andalib, "Classification of Alzheimer’s disease, mild cognitive impairment, and healthy subjects using a multimodal dataset and multi-class machine learning algorithms," 2024 (Submitted).
 
-**[J34]** M. Parsayan, P. F. Høilund-Carlsen, **V. C. Gogineni**, and S. Andalib, "Impact of reference region selection on SUVR values in FDG-PET imaging of Alzheimer's disease," *Neuroscience*, 2024 (Submitted).
+**[J35]** M. Parsayan, P. F. Høilund-Carlsen, **V. C. Gogineni**, and S. Andalib, "Impact of reference region selection on SUVR values in FDG-PET imaging of Alzheimer's disease," *Neuroscience*, 2024 (Submitted).
 
 
 
