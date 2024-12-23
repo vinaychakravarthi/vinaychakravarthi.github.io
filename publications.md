@@ -2,6 +2,8 @@
 layout: page
 ---
 
+##Refereed Journals
+
 **[J28]** P. Ganjimala, **V. C. Gogineni**, and S. Mula, "Performance analysis of hammerstein block-oriented functional link adaptive filters," *IEEE Signal Process. Lett.*, vol. 31, pp. 2325-2329, 2024.
 
 **[J27]** M. S. Cheema, **V. C. Gogineni**, P. S. Rossi, and S. Werner, "Networked federated meta learning over extending graphs," *IEEE Internet Things J.*, 2024.
