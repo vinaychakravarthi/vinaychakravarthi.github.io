@@ -2,7 +2,7 @@
 layout: page
 ---
 
-##Refereed Journals
+## Refereed Journals
 
 **[J28]** P. Ganjimala, **V. C. Gogineni**, and S. Mula, "Performance analysis of hammerstein block-oriented functional link adaptive filters," *IEEE Signal Process. Lett.*, vol. 31, pp. 2325-2329, 2024.
 
