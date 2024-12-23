@@ -1,4 +1,4 @@
-title: " "
+title: "Vinay Gogineni"
 author: " "
 description: "University of Southern Denmark"
 permalink: /:title/
@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "newindex.html"}
+  - {file: "newindex.html", title: "Home"}
   - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
