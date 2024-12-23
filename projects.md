@@ -1,8 +1,12 @@
 ---
-title: "Projects"
-permalink: "/Projects/"
+title: ""
+permalink: ""
 layout: page
 ---
+
+
+
+
 
 ## Installation
 
