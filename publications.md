@@ -78,94 +78,48 @@ layout: page
 **[J35]** M. Parsayan, P. F. Høilund-Carlsen, **V. C. Gogineni**, and S. Andalib, "Impact of reference region selection on SUVR values in FDG-PET imaging of Alzheimer's disease," *Neuroscience*, 2024 (Submitted).
 
 
+## **Conference Proceedings**
 
+- **[C22]** E. Lari, **V. C. Gogineni**, R. Arablouei, and S. Werner, "On the resilience of online federated learning to model poisoning attacks through partial sharing," in *Proc. IEEE Int. Conf. Acoust., Speech and Signal Process.*, 2024.
 
-## Features
+- **[C21]** E. Lari, **V. C. Gogineni**, R. Arablouei, and S. Werner, "Continual local updates for federated learning with enhanced robustness to link noise," in *Proc. IEEE Int. Conf. Asia Pacific Signal and Info. Process. Assoc.*, 2023.
 
- - supports dark mode on macOS Mojave
- - optional sidebar
- - MathJax support
- - no external ressources
- - included archive page
- - supports pagination
- - feed generation
- - responsive
- - syntax highlighting
- - supports comments via [disqus](https://disqus.com/) or [isso](http://posativ.org/isso/)
+- **[C20]** K. Müller, **V. C. Gogineni**, M. Orlandic, and S. Werner, "Autoencoder-based hyperspectral anomaly detection using kernel principal component pre-processing," in *Proc. European Conf. Signal Process.*, 2023.
 
-## Based on
+- **[C19]** E. Lari, **V. C. Gogineni**, R. Arablouei, and S. Werner, "Resource-efficient federated learning robust to communication errors," in *Proc. IEEE Int. Workshop Statistical Signal Process.*, 2023.
 
-- [Hyde](https://github.com/poole/hyde)
-- [Minima](https://github.com/jekyll/minima)
-- [Lagrange](https://github.com/LeNPaul/Lagrange)
-- [Font Awesome](http://fontawesome.io/)
-- [KaTeX](https://katex.org/)
-- [Pygments](https://github.com/richleland/pygments-css)
+- **[C18]** R. Mirzai, **V. C. Gogineni**, N. K. D. Venkategowda, and S. Werner, "Distributed quantile regression with non-convex sparse penalties," in *Proc. IEEE Int. Workshop Statistical Signal Process.*, 2023.
 
-## Installation (jekyll-remote-theme method)
+- **[C17]** F. Gauthier, **V. C. Gogineni**, and S. Werner, "Personalized networked federated learning using reinforcement learning," in *Proc. IEEE Int. Conf. Commun.*, 2023.
 
-You can use this theme with the `jekyll-remote-theme` plugin. Just create an empty repo, copy over the `index.html` file and add this to your `_config.yml`:
+- **[C16]** F. Gauthier, **V. C. Gogineni**, S. Werner, Y. Huang, and A. Kuh, "Clustered graph federated personalized learning," in *Proc. Asilomar Conf. Signals, Systems, and Computers*, 2022, pp. 744-748.
 
-```yaml
-remote_theme: niklasbuschmann/contrast@v2.11
+- **[C15]** R. Mirzai, **V. C. Gogineni**, N. K. D. Venkategowda, and S. Werner, "Dynamic graph topology learning using ADMM with non-convex penalties," in *Proc. European Conf. Signal Process.*, 2022, pp. 682-686.
 
-plugins:
-  - jekyll-remote-theme
-```
+- **[C14]** R. Mirzai, N. K. D. Venkategowda, **V. C. Gogineni**, and S. Werner, "Proximal ADMM for sparse-penalized quantile regression," in *Proc. European Conf. Signal Process.*, 2022, pp. 2046-2050.
 
-Note: to enable icons you also need to copy over the `_data` folder.
+- **[C13]** **V. C. Gogineni**, A. Moradi, N. K. D. Venkategowda, and S. Werner, "Energy-efficient and privacy-aware distributed LMS," in *Proc. Int. Conf. Info. Fusion.*, 2022, pp. 1-6.
 
-## Config
+- **[C12]** **V. C. Gogineni**, S. Werner, Y. Huang, and A. Kuh, "Decentralized graph federated multitask learning for streaming data," in *Proc. Annual Conf. Info. Sci. and Syst.*, 2022, pp. 101-106.
 
-Your `_config.yml` could for example look like this:
+- **[C11]** F. Gauthier, **V. C. Gogineni**, S. Werner, Y. Huang, and A. Kuh, "Resource-aware asynchronous online federated learning for nonlinear regression," in *Proc. IEEE Int. Conf. Commun.*, 2022, pp. 2828-2833.
 
-```yaml
-title: "Blog Title"
-author: "Blog Author"
-description: "My personal blog about ... something"
-permalink: /:title/
-lang: "en"
-excerpt_separator: "\n\n\n"
-date_format: "%B %d, %Y"
+- **[C10]** **V. C. Gogineni**, S. Werner, Y. Huang, and A. Kuh, "Communication-efficient online federated learning framework for nonlinear regression," in *Proc. IEEE Int. Conf. Acoust., Speech and Signal Process.*, 2022, pp. 5228-5232.
 
-# Layout
+- **[C9]** **V. C. Gogineni**, V. Naumova, S. Werner, and Y-F. Huang, "Graph kernel recursive least-squares algorithms," in *Proc. IEEE Int. Conf. Asia Pacific Signal and Info. Process. Assoc.*, Tokyo, 2021, pp. 2072-2076. (*Received Best Paper Award*).
 
-show_excerpts: true        # show article excerpts on the home page
-show_frame: true           # adds a gray frame to the site
-show_sidebar: false        # show a sidebar instead of the usual header
+- **[C8]** **V. C. Gogineni**, G. S. R. E. Langberg, V. Naumova, J. Nygård, M. Nygård, M. Grasmair, and S. Werner, "Recurrent time-varying multi-graph convolutional neural networks for personalized cervical cancer risk prediction," in *Proc. Asilomar Conf. Signals, Systems, and Computers*, 2021.
 
-# Menu
+- **[C7]** **V. C. Gogineni**, G. S. R. E. Langberg, V. Naumova, J. Nygård, M. Nygård, M. Grasmair, and S. Werner, "Data-driven personalized cervical cancer risk prediction: A graph-perspective," in *Proc. IEEE Int. Workshop Statistical Signal Process.*, 2021, pp. 46-50.
 
-navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
+- **[C6]** V. R. M. Elias, **V. C. Gogineni**, W. A. Martins, and S. Werner, "Kernel regression on graphs using random Fourier features," in *Proc. IEEE Int. Conf. Acoust., Speech and Signal Process.*, 2021, pp. 5235-5239.
 
-external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+- **[C5]** **V. C. Gogineni**, V. R. M. Elias, W. A. Martins, and S. Werner, "Graph diffusion kernel LMS using random Fourier features," in *Proc. Asilomar Conf. on Signals, Systems, and Computers*, Nov. 2020, pp. 1528-1532.
 
-comments:
-#  disqus_shortname: ""    # see https://disqus.com/
-#  isso_domain: ""         # see https://posativ.org/isso/
+- **[C4]** **V. C. Gogineni** and M. Chakraborty, "Partial diffusion affine projection algorithm over clustered multitask networks," in *Proc. IEEE Int. Symp. on Circuits and Syst.*, May 2019, pp. 1-5.
 
-plugins:
- - jekyll-feed
+- **[C3]** **V. C. Gogineni** and M. Chakraborty, "Diffusion affine projection algorithm for multitask networks," in *Proc. IEEE Int. Conf. Asia Pacific Signal and Info. Process. Assoc.*, Nov. 2018, pp. 201-206.
 
-```
+- **[C2]** **V. C. Gogineni**, S. Mula, and M. Chakraborty, "Performance analysis of proportionate-type LMS algorithms," in *Proc. IEEE Int. Conf. Signal Process.: Algo., Architec., Arrange., and Appli.*, Sep. 2016, pp. 177-181.
 
-## MathJax
-
-Contrast comes preinstalled with a leightweight alternative to MathJax called [KaTeX](https://katex.org/). To display equations in a post simply set `mathjax: true` in the article's front matter.
-
-## License
-
-[public domain](http://unlicense.org/)
-
-## Screenshots
-
-![screenshot](https://user-images.githubusercontent.com/4943215/109431850-cd711780-7a08-11eb-8601-2763f2ee6bb4.png)
-
-![screenshot](https://user-images.githubusercontent.com/4943215/109431832-b6cac080-7a08-11eb-9c5e-a058680c23a1.png)
-
-![screenshot](https://user-images.githubusercontent.com/4943215/73125194-5f0b8b80-3fa4-11ea-805c-8387187503ad.png)
+- **[C1]** **V. C. Gogineni**, R. L. Das, and M. Chakraborty, "Proportionate-type hard thresholding adaptive filter for sparse system identification," in *Proc. IEEE Int. Conf. Asia Pacific Signal and Info. Process. Assoc.*, Dec. 2014, pp. 1-6.
