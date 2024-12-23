@@ -61,7 +61,7 @@ layout: page
 
 **[J1]** **V. C. Gogineni** and S. Mula, "Improved bias-compensated proportionate NLMS algorithms," *IEEE Trans. Circuits Syst. II: Express Briefs*, vol. 63, no. 5, pp. 467-471, 2016.
 
-## *Under Communication*
+*(Under Communication)*
 
 **[J29]** **V. C. Gogineni**, E. Nadimi, "Efficient knowledge deletion from trained models through layer-wise partial machine unlearning," *Journal of Machine Learning Research*, 2024 (Revised and Submitted).
 
