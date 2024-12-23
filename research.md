@@ -1,6 +1,7 @@
 ---
 title: " "
 layout: page
+permalink: "/Research/"
 ---
 
 Currently, I am working on the following topics and their applications in healthcare, IIoT and Fusion energy:
