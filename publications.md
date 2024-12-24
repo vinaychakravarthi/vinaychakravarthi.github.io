@@ -8,25 +8,25 @@ layout: page
 **[J28]** P. Ganjimala, **V. C. Gogineni**, and S. Mula, "Performance analysis of hammerstein block-oriented functional link adaptive filters," *IEEE Signal Process. Lett.*, vol. 31, pp. 2325-2329, 2024. [Link to paper](https://findresearcher.sdu.dk/ws/portalfiles/portal/272196245/SPL.pdf)
 
 
-**[J27]** M. S. Cheema, **V. C. Gogineni**, P. S. Rossi, and S. Werner, "Networked federated meta learning over extending graphs," *IEEE Internet Things J.*, 2024.
+**[J27]** M. S. Cheema, **V. C. Gogineni**, P. S. Rossi, and S. Werner, "Networked federated meta learning over extending graphs," *IEEE Internet Things J.*, 2024. [Link to paper](https://findresearcher.sdu.dk/ws/portalfiles/portal/272195880/Networked_FML.pdf)
 
-**[J26]** S. Ramesh, K. Manna, **V. C. Gogineni**, S. Chattopadhyay, and S. Mahapatra, "Congestion-aware vertical link placement and application mapping onto three-dimensional network-on-chip architectures," *IEEE Trans. Comput.-Aided Design Integr. Circuits Syst.*, vol. 43, no. 8, pp. 2249-2262, 2024.
+**[J26]** S. Ramesh, K. Manna, **V. C. Gogineni**, S. Chattopadhyay, and S. Mahapatra, "Congestion-aware vertical link placement and application mapping onto three-dimensional network-on-chip architectures," *IEEE Trans. Comput.-Aided Design Integr. Circuits Syst.*, vol. 43, no. 8, pp. 2249-2262, 2024. [Link to paper](https://findresearcher.sdu.dk/ws/portalfiles/portal/256785427/Application_mapping_in_3D_NoC.pdf)
 
-**[J25]** M. S. Cheema, M. Z. Sarwar, **V. C. Gogineni**, D. Cantero, and P. S. Rossi, "Computationally efficient structural health monitoring of bridges using graph signal processing," *IEEE Sensors J.*, vol. 24, no. 7, pp. 11895-11905, 2024.
+**[J25]** M. S. Cheema, M. Z. Sarwar, **V. C. Gogineni**, D. Cantero, and P. S. Rossi, "Computationally efficient structural health monitoring of bridges using graph signal processing," *IEEE Sensors J.*, vol. 24, no. 7, pp. 11895-11905, 2024. [Link to paper](https://findresearcher.sdu.dk/ws/portalfiles/portal/256785316/Bridge_Paper_on_SHM_Sensors_Journal_002_.pdf)
 
-**[J24]** **V. C. Gogineni**, K. Müller, M. Orlandic, and S. Werner, "Light weight autoencoders for hyperspectral anomaly detection," *IEEE Geoscience and Remote Sensing Letters*, vol. 21, pp. 1-5, 2024.
+**[J24]** **V. C. Gogineni**, K. Müller, M. Orlandic, and S. Werner, "Light weight autoencoders for hyperspectral anomaly detection," *IEEE Geoscience and Remote Sensing Letters*, vol. 21, pp. 1-5, 2024. [Link to paper](https://findresearcher.sdu.dk/ws/portalfiles/portal/272196245/SPL.pdf)
 
-**[J23]** R. Mirzai, **V. C. Gogineni**, N. K. D. Venkategowda, and S. Werner, "Smoothing ADMM for Sparse-Penalized Quantile Regression with Non-Convex Penalties," *IEEE Open J. Signal Processing*, vol. 5, pp. 213-228, 2024.
+**[J23]** R. Mirzai, **V. C. Gogineni**, N. K. D. Venkategowda, and S. Werner, "Smoothing ADMM for Sparse-Penalized Quantile Regression with Non-Convex Penalties," *IEEE Open J. Signal Processing*, vol. 5, pp. 213-228, 2024. [Link to paper](https://findresearcher.sdu.dk/ws/portalfiles/portal/272196245/SPL.pdf)
 
-**[J22]** F. Gauthier, **V. C. Gogineni**, S. Werner, Y. Huang, and A. Kuh, "Personalized graph federated learning with differential privacy," *IEEE Trans. Signal and Info. Process. Networks*, vol. 9, pp. 736-749, 2023.
+**[J22]** F. Gauthier, **V. C. Gogineni**, S. Werner, Y. Huang, and A. Kuh, "Personalized graph federated learning with differential privacy," *IEEE Trans. Signal and Info. Process. Networks*, vol. 9, pp. 736-749, 2023. [Link to paper](https://findresearcher.sdu.dk/ws/portalfiles/portal/272196245/SPL.pdf)
 
-**[J21]** **V. C. Gogineni**, A. Moradi, N. K. D. Venkategowda and S. Werner, "Communication-efficient and privacy-aware distributed learning," *IEEE Trans. Signal and Info. Process.*, vol. 9, pp. 705-720, 2023.
+**[J21]** **V. C. Gogineni**, A. Moradi, N. K. D. Venkategowda and S. Werner, "Communication-efficient and privacy-aware distributed learning," *IEEE Trans. Signal and Info. Process.*, vol. 9, pp. 705-720, 2023. [Link to paper](https://findresearcher.sdu.dk/ws/portalfiles/portal/272195880/Networked_FML.pdf)
 
-**[J20]** F. Gauthier, **V. C. Gogineni**, S. Werner, Y. Huang and A. Kuh, "Asynchronous online federated learning with reduced communication requirements," *IEEE Internet Things J.*, 2023.
+**[J20]** F. Gauthier, **V. C. Gogineni**, S. Werner, Y. Huang and A. Kuh, "Asynchronous online federated learning with reduced communication requirements," *IEEE Internet Things J.*, 2023. [Link to paper](https://findresearcher.sdu.dk/ws/portalfiles/portal/272196245/SPL.pdf)
 
-**[J19]** **V. C. Gogineni**, S. Ramesh, S. V. Mula and S. Werner, "Algorithm and architecture design of random Fourier features-based kernel adaptive filters," *IEEE Trans. Circuits. Syst. I: Regular Papers*, vol. 70, no. 2, pp. 833-845, 2023.
+**[J19]** **V. C. Gogineni**, S. Ramesh, S. V. Mula and S. Werner, "Algorithm and architecture design of random Fourier features-based kernel adaptive filters," *IEEE Trans. Circuits. Syst. I: Regular Papers*, vol. 70, no. 2, pp. 833-845, 2023. [Link to paper](https://findresearcher.sdu.dk/ws/portalfiles/portal/272196245/SPL.pdf)
 
-**[J18]** **V. C. Gogineni**, S. Werner, Y. Huang, and A. Kuh, "Communication-efficient online federated learning strategies for kernel regression," *IEEE Internet Things J.*, vol. 10, no. 5, pp. 4531-4544, 2023.
+**[J18]** **V. C. Gogineni**, S. Werner, Y. Huang, and A. Kuh, "Communication-efficient online federated learning strategies for kernel regression," *IEEE Internet Things J.*, vol. 10, no. 5, pp. 4531-4544, 2023. [Link to paper](https://findresearcher.sdu.dk/ws/portalfiles/portal/272196245/SPL.pdf)
 
 **[J17]** **V. C. Gogineni**, S. Werner, F. Gauthier, Y. Huang and A. Kuh, "Personalized online federated learning for IoT/CPS: Challenges and future directions," *IEEE Internet Things Mag.*, vol. 5, no. 4, pp. 78-84, 2022.
 
