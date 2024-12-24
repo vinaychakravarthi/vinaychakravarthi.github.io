@@ -1,6 +1,5 @@
 ---
 title: ""
-permalink: ""
 layout: page
 ---
 
