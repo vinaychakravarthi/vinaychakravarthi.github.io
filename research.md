@@ -12,7 +12,8 @@ Artificial intelligence (AI) is rapidly transforming industries and daily life, 
 
 **(Personalized) Federated Learning**: Federated learning (FL) is a distributed machine learning paradigm that allows a network of devices (e.g., hospitals, smartphones, media streamers, and Internet of things nodes) to collaboratively learn a global shared AI model without explicitly sharing their local raw data with the server or other devices (i.e., strictly adhering to data regulations like GDPR). Unlike traditional FL, which learns a single AI model, our focus is on developing personalized AI models tailored to specific subgroups of the population while maintaining GDPR compliance.
 
-**Security and Privacy in Federated Learning**: Enhancing the safety and confidentiality of distributed learning systems.
+**Security and Privacy in Federated Learning**: Although Federated Learning (FL) is designed to be privacy-preserving, it is still vulnerable to various attacks. An adversary can potentially infer sensitive training data from the model updates collected during the learning process, posing a risk to data privacy. Our goal is to mitigate these risks of data inference from trained AI models and ensuring that the learning process remains secure and fully compliant with data privacy regulations.
+
 **Machine Unlearning**: Removing/erasing the knowledge of specific data samples from already trained AI models to comply with data regulations.
 **Fairness-Aware AI**: Promoting unbiased and equitable decision-making in AI systems.
 
