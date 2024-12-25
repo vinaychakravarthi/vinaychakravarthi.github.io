@@ -3,7 +3,9 @@ title: " "
 layout:  page
 ---
 
-Currently, I am working on the following topics and their applications in healthcare, IIoT, and Fusion energy. These can be categorized into four main areas:
+Currently, I am working on the following topics and their applications in healthcare, IIoT, and Fusion energy. 
+
+![Research Focus](research.png)
 
 ### 1. **Responsible AI**
 - **Personalized Federated Learning**: Tailoring AI models to individual (or subgroups of the population) needs while maintaining data privacy.
