@@ -14,27 +14,27 @@ layout: page
 
 **[J25]** M. S. Cheema, M. Z. Sarwar, **V. C. Gogineni**, D. Cantero, and P. S. Rossi, "Computationally efficient structural health monitoring of bridges using graph signal processing," *IEEE Sensors J.*, vol. 24, no. 7, pp. 11895-11905, 2024. [Link to paper](https://findresearcher.sdu.dk/ws/portalfiles/portal/256785316/Bridge_Paper_on_SHM_Sensors_Journal_002_.pdf)
 
-**[J24]** **V. C. Gogineni**, K. Müller, M. Orlandic, and S. Werner, "Light weight autoencoders for hyperspectral anomaly detection," *IEEE Geoscience and Remote Sensing Letters*, vol. 21, pp. 1-5, 2024. [Link to paper](https://findresearcher.sdu.dk/ws/portalfiles/portal/272196245/SPL.pdf)
+**[J24]** **V. C. Gogineni**, K. Müller, M. Orlandic, and S. Werner, "Light weight autoencoders for hyperspectral anomaly detection," *IEEE Geoscience and Remote Sensing Letters*, vol. 21, pp. 1-5, 2024. [Link to paper](https://acris.aalto.fi/ws/portalfiles/portal/142436321/LW_Auto_AE-accepted.pdf)
 
-**[J23]** R. Mirzai, **V. C. Gogineni**, N. K. D. Venkategowda, and S. Werner, "Smoothing ADMM for Sparse-Penalized Quantile Regression with Non-Convex Penalties," *IEEE Open J. Signal Processing*, vol. 5, pp. 213-228, 2024. [Link to paper](https://findresearcher.sdu.dk/ws/portalfiles/portal/272196245/SPL.pdf)
+**[J23]** R. Mirzai, **V. C. Gogineni**, N. K. D. Venkategowda, and S. Werner, "Smoothing ADMM for sparse-penalized quantile regression with non-convex penalties," *IEEE Open J. Signal Processing*, vol. 5, pp. 213-228, 2024. [Link to paper](https://findresearcher.sdu.dk/ws/portalfiles/portal/254158659/Smoothing_ADMM_for_Sparse-Penalized_Quantile_Regression_With_Non-Convex_Penalties.pdf)
 
-**[J22]** F. Gauthier, **V. C. Gogineni**, S. Werner, Y. Huang, and A. Kuh, "Personalized graph federated learning with differential privacy," *IEEE Trans. Signal and Info. Process. Networks*, vol. 9, pp. 736-749, 2023. [Link to paper](https://findresearcher.sdu.dk/ws/portalfiles/portal/272196245/SPL.pdf)
+**[J22]** F. Gauthier, **V. C. Gogineni**, S. Werner, Y. Huang, and A. Kuh, "Personalized graph federated learning with differential privacy," *IEEE Trans. Signal and Info. Process. Networks*, vol. 9, pp. 736-749, 2023. [Link to paper](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/3100399/PGFL-2023.pdf?sequence=1&isAllowed=y)
 
-**[J21]** **V. C. Gogineni**, A. Moradi, N. K. D. Venkategowda and S. Werner, "Communication-efficient and privacy-aware distributed learning," *IEEE Trans. Signal and Info. Process.*, vol. 9, pp. 705-720, 2023. [Link to paper](https://findresearcher.sdu.dk/ws/portalfiles/portal/272195880/Networked_FML.pdf)
+**[J21]** **V. C. Gogineni**, A. Moradi, N. K. D. Venkategowda and S. Werner, "Communication-efficient and privacy-aware distributed learning," *IEEE Trans. Signal and Info. Process.*, vol. 9, pp. 705-720, 2023. [Link to paper](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/3099310/TSIPN-Vinay-2023.pdf?sequence=1&isAllowed=y)
 
-**[J20]** F. Gauthier, **V. C. Gogineni**, S. Werner, Y. Huang and A. Kuh, "Asynchronous online federated learning with reduced communication requirements," *IEEE Internet Things J.*, 2023. [Link to paper](https://findresearcher.sdu.dk/ws/portalfiles/portal/272196245/SPL.pdf)
+**[J20]** F. Gauthier, **V. C. Gogineni**, S. Werner, Y. Huang and A. Kuh, "Asynchronous online federated learning with reduced communication requirements," *IEEE Internet Things J.*, 2023. [Link to paper](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/3097065/PAO_Fed-AAM.pdf?sequence=1&isAllowed=y)
 
-**[J19]** **V. C. Gogineni**, S. Ramesh, S. V. Mula and S. Werner, "Algorithm and architecture design of random Fourier features-based kernel adaptive filters," *IEEE Trans. Circuits. Syst. I: Regular Papers*, vol. 70, no. 2, pp. 833-845, 2023. [Link to paper](https://findresearcher.sdu.dk/ws/portalfiles/portal/272196245/SPL.pdf)
+**[J19]** **V. C. Gogineni**, S. Ramesh, S. V. Mula and S. Werner, "Algorithm and architecture design of random Fourier features-based kernel adaptive filters," *IEEE Trans. Circuits. Syst. I: Regular Papers*, vol. 70, no. 2, pp. 833-845, 2023. [Link to paper](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/3139606/VLSI_Architecture_of_RFF_based_Kernel_LMS.pdf?sequence=1&isAllowed=y)
 
-**[J18]** **V. C. Gogineni**, S. Werner, Y. Huang, and A. Kuh, "Communication-efficient online federated learning strategies for kernel regression," *IEEE Internet Things J.*, vol. 10, no. 5, pp. 4531-4544, 2023. [Link to paper](https://findresearcher.sdu.dk/ws/portalfiles/portal/272196245/SPL.pdf)
+**[J18]** **V. C. Gogineni**, S. Werner, Y. Huang, and A. Kuh, "Communication-efficient online federated learning strategies for kernel regression," *IEEE Internet Things J.*, vol. 10, no. 5, pp. 4531-4544, 2023. [Link to paper](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/3047362/IoTJournal_FL.pdf?sequence=1)
 
-**[J17]** **V. C. Gogineni**, S. Werner, F. Gauthier, Y. Huang and A. Kuh, "Personalized online federated learning for IoT/CPS: Challenges and future directions," *IEEE Internet Things Mag.*, vol. 5, no. 4, pp. 78-84, 2022.
+**[J17]** **V. C. Gogineni**, S. Werner, F. Gauthier, Y. Huang and A. Kuh, "Personalized online federated learning for IoT/CPS: Challenges and future directions," *IEEE Internet Things Mag.*, vol. 5, no. 4, pp. 78-84, 2022. [Link to paper](https://par.nsf.gov/servlets/purl/10444296)
 
-**[J16]** G. S. R. E. Langberg, J. Nygård, **V. C. Gogineni**, M. Nygård, M. Grasmair and V. Naumova, "Toward a data-driven system for personalized cervical cancer risk stratification," *Sci. Rep.*, vol. 12, no. 12083, 2022.
+**[J16]** G. S. R. E. Langberg, J. Nygård, **V. C. Gogineni**, M. Nygård, M. Grasmair and V. Naumova, "Toward a data-driven system for personalized cervical cancer risk stratification," *Sci. Rep.*, vol. 12, no. 12083, 2022. [Link to paper](https://www.nature.com/articles/s41598-022-16361-6)
 
-**[J15]** A. Daney, **V. C. Gogineni**, S. V. Mula and S. Werner, "Novel VLSI architecture for fractional-order correntropy adaptive filtering algorithm," *IEEE Trans. VLSI Syst.*, vol. 30, no. 7, pp. 893-904, 2022.
+**[J15]** A. Daney, **V. C. Gogineni**, S. V. Mula and S. Werner, "Novel VLSI architecture for fractional-order correntropy adaptive filtering algorithm," *IEEE Trans. VLSI Syst.*, vol. 30, no. 7, pp. 893-904, 2022. [Link to paper](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/3046720/FoCLMS_VLSI-11.pdf?sequence=1&isAllowed=y)
 
-**[J14]** V. R. M. Elias, **V. C. Gogineni**, W. A. Martins and S. Werner, "Kernel regression over graphs using random Fourier features," *IEEE Trans. Signal Process.*, vol. 70, pp. 936-949, 2022.
+**[J14]** V. R. M. Elias, **V. C. Gogineni**, W. A. Martins and S. Werner, "Kernel regression over graphs using random Fourier features," *IEEE Trans. Signal Process.*, vol. 70, pp. 936-949, 2022. [Link to paper](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/2978501/IEEE-TSP-KRG-2022%5B1%5D.pdf?sequence=1)
 
 **[J13]** **V. C. Gogineni**, S. P. Talebi and S. Werner, "Performance of clustered multitask diffusion LMS suffering from inter-node communication delays," *IEEE Trans. Circuits Syst. II: Express Briefs*, vol. 68, no. 7, pp. 2695-2699, 2021.
 
