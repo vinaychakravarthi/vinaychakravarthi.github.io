@@ -19,7 +19,7 @@ AI is rapidly transforming industries and daily life, but it also raises serious
 **Fairness-Concious AI**: Fairness in AI is crucial because AI systems are increasingly being used in decision-making processes that impact people's lives. However, traditional AI models often exhibit discriminatory decisions (i.e., decisions that disadvantage certain groups or individuals) due to biased data, fairness-agnostic algorithms, and a lack of diversity in training datasets. Therefore, our objective is to develop novel AI models that  promote fairness thereby benefitting all people without perpetuating existing social inequities.
 
 ### 2. **Next-Gen AI**
-**Self-Supervised Learning (SSL)**: In general, acquiring labeled data is expensive and time-consuming in almost every field, while unlabeled data is abundant. SSL leverages this vast pool of unlabeled data to train AI models, reducing the dependency on large labeled datasets. SSL can be particularly beneficial in medical imaging, where expert annotations are limited. 
+**Self-Supervised Learning (SSL)**: In general, acquiring labeled data is expensive and time-consuming in almost every field, while unlabeled data is abundant. SSL leverages this vast pool of unlabeled data to train AI models, reducing the dependency on large labeled datasets. We are currently utilizing SSL in healthcare applications, where expert annotations are limited. 
 
 - **Continual Learning**: Enabling AI models to adapt and learn continuously from new data.
 - **Meta Learning**: Developing AI models that can adapt swiftly to new tasks.
