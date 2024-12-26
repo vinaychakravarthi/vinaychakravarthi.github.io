@@ -27,10 +27,18 @@ AI is rapidly transforming industries and daily life, but it also raises serious
 
 **Graph Machine Learning**: Graph Machine Learning (GML): Many real-world systems are best represented as graphs, capturing the underlying relationships and interactions among entities (e.g., social networks, molecular structures). GML leverages this structure to improve predictive accuracy and insights. We are utilizing GML in biological networks to uncover insights into disease mechanisms, helping to identify potential therapeutic targets and understand complex biological processes.
 
-### 3. **AI in Healthcare and Industrial Applications**
-- **AI for Healthcare**: Applying advanced AI techniques to improve outcomes in healthcare, including diagnostics and personalized treatment.
+### 3. **Applied AI**
+**Colorectal Cancer**: Colon capsule endoscopy is a non-invasive imaging technique that allows for comprehensive examination of the colon. By leveraging advanced AI models, we aim to enhance the accuracy of polyp detection and characterization within CCE images, facilitating early diagnosis and improving patient outcomes.
+**Cardio Calcification**: Calcification in coronary arteries is a critical indicator of cardiovascular disease and can lead to severe health complications. Detecting and quantifying calcification through imaging techniques is essential for assessing patient risk and planning appropriate interventions. We are developing AI-based methods to automatically identify and measure cardio calcification from medical images, improving the accuracy and efficiency of diagnosis and enabling timely medical responses.
+
+
+
+
+
+
+
+
 - **AI for IIoT (Industrial Internet of Things)**: Enhancing automation and decision-making in industrial settings through AI models that process large-scale sensor data.
 
-### 4. **Physics-Informed AI and Advanced Models**
-- **Physics-Informed Neural Networks**: Integrating physical laws into neural networks for more accurate predictions in complex systems like energy or medical simulations.
-- **AI for Fusion Energy**: Leveraging AI models, particularly, PINNs to forecast fuel-ion ratio. 
+Other than these, we also work with Large Langugage Models (LLMs) and Physics-Informed Neural NEtworks (PINNS) with a specal focus in healthcare and fusion energy, respectively.
+
