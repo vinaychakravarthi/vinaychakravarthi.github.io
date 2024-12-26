@@ -29,6 +29,7 @@ AI is rapidly transforming industries and daily life, but it also raises serious
 
 ### 3. **Applied AI**
 **Colorectal Cancer**: Colon capsule endoscopy is a non-invasive imaging technique that allows for comprehensive examination of the colon. By leveraging advanced AI models, we aim to enhance the accuracy of polyp detection and characterization within CCE images, facilitating early diagnosis and improving patient outcomes.
+
 **Cardio Calcification**: Calcification in coronary arteries is a critical indicator of cardiovascular disease and can lead to severe health complications. Detecting and quantifying calcification through imaging techniques is essential for assessing patient risk and planning appropriate interventions. We are developing AI-based methods to automatically identify and measure cardio calcification from medical images, improving the accuracy and efficiency of diagnosis and enabling timely medical responses.
 
 
