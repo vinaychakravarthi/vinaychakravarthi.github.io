@@ -21,8 +21,11 @@ AI is rapidly transforming industries and daily life, but it also raises serious
 ### 2. **Next-Gen AI**
 **Self-Supervised Learning (SSL)**: In general, acquiring labeled data is expensive and time-consuming in almost every field, while unlabeled data is abundant. SSL leverages this vast pool of unlabeled data to train AI models, reducing the dependency on large labeled datasets. We are currently utilizing SSL in healthcare applications, where expert annotations are limited. 
 
-- **Continual Learning**: Enabling AI models to adapt and learn continuously from new data.
-- **Meta Learning**: Developing AI models that can adapt swiftly to new tasks.
+- **Continual Learning**: In real-world applications, data arrives progressively, and the distribution of this data can change over time. LL allows AI models to adapt to these changes without forgetting previously learned information, ensuring robustness and flexibility. We are currently implementing LL in healthcare systems, enabling our models to improve over time as they encounter new patient data and treatment outcomes.
+
+**Meta Learning**: In dynamic environments where new tasks frequently arise, the ability to quickly adapt is crucial. ML develops AI models that can swiftly learn new tasks with minimal data by leveraging prior knowledge. We are applying ML in personalized diagnosis, where the models must adapt to individual patient needs.
+
+**Graph Machine Learning**: Graph Machine Learning (GML): Many real-world systems are best represented as graphs, capturing the underlying relationships and interactions among entities (e.g., social networks, molecular structures). GML leverages this structure to improve predictive accuracy and insights. We are utilizing GML in biological networks to uncover insights into disease mechanisms, helping to identify potential therapeutic targets and understand complex biological processes.
 
 ### 3. **AI in Healthcare and Industrial Applications**
 - **AI for Healthcare**: Applying advanced AI techniques to improve outcomes in healthcare, including diagnostics and personalized treatment.
