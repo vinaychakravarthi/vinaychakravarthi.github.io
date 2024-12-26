@@ -36,31 +36,31 @@ layout: page
 
 **[J14]** V. R. M. Elias, **V. C. Gogineni**, W. A. Martins and S. Werner, "Kernel regression over graphs using random Fourier features," *IEEE Trans. Signal Process.*, vol. 70, pp. 936-949, 2022. [Link to paper](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/2978501/IEEE-TSP-KRG-2022%5B1%5D.pdf?sequence=1)
 
-**[J13]** **V. C. Gogineni**, S. P. Talebi and S. Werner, "Performance of clustered multitask diffusion LMS suffering from inter-node communication delays," *IEEE Trans. Circuits Syst. II: Express Briefs*, vol. 68, no. 7, pp. 2695-2699, 2021.
+**[J13]** **V. C. Gogineni**, S. P. Talebi and S. Werner, "Performance of clustered multitask diffusion LMS suffering from inter-node communication delays," *IEEE Trans. Circuits Syst. II: Express Briefs*, vol. 68, no. 7, pp. 2695-2699, 2021. [Link to paper](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/2984234/vinay-tcasII-multitask-2021.pdf?sequence=1)
 
-**[J12]** V. R. M. Elias, **V. C. Gogineni**, W. A. Martins and S. Werner, "Adaptive graph filters in reproducing kernel Hilbert spaces: Design and performance analysis," *IEEE Trans. Signal Inf. Process. Networks*, vol. 7, pp. 62-74, 2021.
+**[J12]** V. R. M. Elias, **V. C. Gogineni**, W. A. Martins and S. Werner, "Adaptive graph filters in reproducing kernel Hilbert spaces: Design and performance analysis," *IEEE Trans. Signal Inf. Process. Networks*, vol. 7, pp. 62-74, 2021. [Link to paper](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/2772718/Elias.pdf?sequence=4&isAllowed=y)
 
-**[J11]** **V. C. Gogineni**, S. P. Talebi, S. Werner and D. P. Mandic, "Fractional-order correntropy adaptive filters for distributed processing of $\alpha$-stable signals," *IEEE Signal Process. Lett.*, vol. 27, pp. 1884-1888, 2020.
+**[J11]** **V. C. Gogineni**, S. P. Talebi, S. Werner and D. P. Mandic, "Fractional-order correntropy adaptive filters for distributed processing of $\alpha$-stable signals," *IEEE Signal Process. Lett.*, vol. 27, pp. 1884-1888, 2020. [Link to paper](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/2687491/SPL2020_Vinay.pdf?sequence=2)
 
-**[J10]** **V. C. Gogineni**, S. P. Talebi, S. Werner and D. P. Mandic, "Fractional-order correntropy filters for tracking dynamic systems in $\alpha$-stable environments," *IEEE Trans. Circuits Syst. II: Express Briefs*, vol. 67, no. 12, pp. 3557-3561, 2020.
+**[J10]** **V. C. Gogineni**, S. P. Talebi, S. Werner and D. P. Mandic, "Fractional-order correntropy filters for tracking dynamic systems in $\alpha$-stable environments," *IEEE Trans. Circuits Syst. II: Express Briefs*, vol. 67, no. 12, pp. 3557-3561, 2020. [Link to paper](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/2655273/TCAS-FINAL-VERSION-2020.pdf?sequence=1)
 
-**[J9]** **V. C. Gogineni** and M. Chakraborty, "Improving the performance of multitask diffusion APA via controlled inter-cluster cooperation," *IEEE Trans. Circuits Syst. I: Regular Papers*, vol. 67, no. 3, pp. 903-912, 2020.
+**[J9]** **V. C. Gogineni** and M. Chakraborty, "Improving the performance of multitask diffusion APA via controlled inter-cluster cooperation," *IEEE Trans. Circuits Syst. I: Regular Papers*, vol. 67, no. 3, pp. 903-912, 2020.[Link to paper](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/3047041/Improving_the_Performance_of_Multitask_Diffusion_APA_via_Controlled_Inter_cluster_Cooperation.pdf?sequence=1)
 
-**[J8]** S. Mula, **V. C. Gogineni** and A. S. Dhar, "Robust proportionate adaptive filter architectures under impulsive noise," *IEEE Trans. VLSI Syst.*, vol. 27, no. 5, pp. 1223-1227, 2019.
+**[J8]** S. Mula, **V. C. Gogineni** and A. S. Dhar, "Robust proportionate adaptive filter architectures under impulsive noise," *IEEE Trans. VLSI Syst.*, vol. 27, no. 5, pp. 1223-1227, 2019. [Link to paper](https://ieeexplore.ieee.org/document/8627952)
 
-**[J7]** **V. C. Gogineni**, B. K. Das and M. Chakraborty, "An adaptive convex combination of APA and ZA-APA for identifying systems having variable sparsity and correlated input," *Digital Signal Process.*, vol. 82, pp. 118-132, 2018.
+**[J7]** **V. C. Gogineni**, B. K. Das and M. Chakraborty, "An adaptive convex combination of APA and ZA-APA for identifying systems having variable sparsity and correlated input," *Digital Signal Process.*, vol. 82, pp. 118-132, 2018. [Link to paper](https://www.sciencedirect.com/science/article/abs/pii/S1051200418305141)
 
-**[J6]** **V. C. Gogineni** and S. Mula, "Logarithmic cost based constrained adaptive filtering algorithms for sensor array beamforming," *IEEE Sensors J.*, vol. 18, no. 14, pp. 5897-5905, 2018.
+**[J6]** **V. C. Gogineni** and S. Mula, "Logarithmic cost based constrained adaptive filtering algorithms for sensor array beamforming," *IEEE Sensors J.*, vol. 18, no. 14, pp. 5897-5905, 2018. [Link to paper](https://ieeexplore.ieee.org/document/8368117)
 
-**[J5]** **V. C. Gogineni** and S. Mula, "Improved proportionate-type sparse adaptive filtering under maximum correntropy criterion in impulsive noise environments," *Digital Signal Process.*, vol. 79, pp. 190-198, 2018.
+**[J5]** **V. C. Gogineni** and S. Mula, "Improved proportionate-type sparse adaptive filtering under maximum correntropy criterion in impulsive noise environments," *Digital Signal Process.*, vol. 79, pp. 190-198, 2018. [Link to paper](https://www.sciencedirect.com/science/article/abs/pii/S1051200418301568)
 
-**[J4]** S. Mula, **V. C. Gogineni** and A. S. Dhar, "Algorithm and VLSI architecture design of proportionate-type LMS adaptive filters for sparse system identification," *IEEE Trans. VLSI Syst.*, vol. 26, no. 9, pp. 1750-1762, 2018.
+**[J4]** S. Mula, **V. C. Gogineni** and A. S. Dhar, "Algorithm and VLSI architecture design of proportionate-type LMS adaptive filters for sparse system identification," *IEEE Trans. VLSI Syst.*, vol. 26, no. 9, pp. 1750-1762, 2018. [Link to paper](https://ieeexplore.ieee.org/document/8352130)
 
-**[J3]** B. K. Das, **V. C. Gogineni** and M. Chakraborty, "A convex combination of NLMS and ZA-NLMS for identifying systems with variable sparsity," *IEEE Trans. Circuits Syst. II: Express Briefs*, vol. 64, no. 9, pp. 1112 - 1116, 2017.
+**[J3]** B. K. Das, **V. C. Gogineni** and M. Chakraborty, "A convex combination of NLMS and ZA-NLMS for identifying systems with variable sparsity," *IEEE Trans. Circuits Syst. II: Express Briefs*, vol. 64, no. 9, pp. 1112 - 1116, 2017. [Link to paper](http://www.ecdept.iitkgp.ac.in/faculty/MChakraborty/Convex_NLMS.pdf)
 
-**[J2]** S. Mula, **V. C. Gogineni** and A. S. Dhar, "VLSI implementation of a low cost high speed variable step-size LMS adaptive filter," *IEEE Trans. Circuits Syst. II: Express Briefs*, vol. 64, no. 7, pp. 771-775, 2017.
+**[J2]** S. Mula, **V. C. Gogineni** and A. S. Dhar, "Algorithm and architecture design of adaptive filters with error non-linearities," *IEEE Trans. VLSI Syst.*, vol. 25, no. 9, pp. 2588-2601, 2017. [Link to paper](https://ieeexplore.ieee.org/document/7932492)
 
-**[J1]** **V. C. Gogineni** and S. Mula, "Improved bias-compensated proportionate NLMS algorithms," *IEEE Trans. Circuits Syst. II: Express Briefs*, vol. 63, no. 5, pp. 467-471, 2016.
+**[J1]** B. K. N. Srinivasarao, **V. C. Gogineni**, S. Mula, and I. Chakrabarti, "A novel framework for compressed sensing based scalable video coding," *Signal Process.: Image Comm.*, vol. 57, pp. 183 - 196, 2017. [Link to paper](https://www.sciencedirect.com/science/article/abs/pii/S0923596517300863)
 
 *(Under Communication)*
 
