@@ -85,9 +85,9 @@ layout: page
 
 **[C21]** E. Lari, **V. C. Gogineni**, R. Arablouei, and S. Werner, "Continual local updates for federated learning with enhanced robustness to link noise," in *Proc. IEEE Int. Conf. Asia Pacific Signal and Info. Process. Assoc.*, 2023. [Link to paper](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/3112379/Ehsan_APSIPA_2023.pdf?sequence=1&isAllowed=y)
 
-**[C20]** K. Müller, **V. C. Gogineni**, M. Orlandic, and S. Werner, "Autoencoder-based hyperspectral anomaly detection using kernel principal component pre-processing," in *Proc. European Conf. Signal Process.*, 2023. [Link to paper] (https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/3106525/Paper_Katinka.pdf?sequence=1&isAllowed=y)
+**[C20]** K. Müller, **V. C. Gogineni**, M. Orlandic, and S. Werner, "Autoencoder-based hyperspectral anomaly detection using kernel principal component pre-processing," in *Proc. European Conf. Signal Process.*, 2023. [Link to paper](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/3106525/Paper_Katinka.pdf?sequence=1&isAllowed=y)
 
-**[C19]** E. Lari, **V. C. Gogineni**, R. Arablouei, and S. Werner, "Resource-efficient federated learning robust to communication errors," in *Proc. IEEE Int. Workshop Statistical Signal Process.*, 2023. [Link to paper] (https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/3106524/Ehsan__SSP_2023.pdf?sequence=1&isAllowed=y)
+**[C19]** E. Lari, **V. C. Gogineni**, R. Arablouei, and S. Werner, "Resource-efficient federated learning robust to communication errors," in *Proc. IEEE Int. Workshop Statistical Signal Process.*, 2023. [Link to paper](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/3106524/Ehsan__SSP_2023.pdf?sequence=1&isAllowed=y)
 
 **[C18]** R. Mirzai, **V. C. Gogineni**, N. K. D. Venkategowda, and S. Werner, "Distributed quantile regression with non-convex sparse penalties," in *Proc. IEEE Int. Workshop Statistical Signal Process.*, 2023. [Link to paper](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/3103336/Distributed_Quantile_Regression_with_Non_Convex_Sparse_Penalties.pdf?sequence=1&isAllowed=y)
 
@@ -109,13 +109,13 @@ layout: page
 
 **[C9]** **V. C. Gogineni**, V. Naumova, S. Werner, and Y-F. Huang, "Graph kernel recursive least-squares algorithms," in *Proc. IEEE Int. Conf. Asia Pacific Signal and Info. Process. Assoc.*, Tokyo, 2021, pp. 2072-2076. (*Received Best Paper Award*). [Link to paper](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/3047904/APSIPA_2021_final.pdf?sequence=1&isAllowed=y)
 
-**[C8]** **V. C. Gogineni**, G. S. R. E. Langberg, V. Naumova, J. Nygård, M. Nygård, M. Grasmair, and S. Werner, "Recurrent time-varying multi-graph convolutional neural networks for personalized cervical cancer risk prediction," in *Proc. Asilomar Conf. Signals, Systems, and Computers*, 2021. [Link to paper] (https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/3047380/Asilomar2021.pdf?sequence=1)
+**[C8]** **V. C. Gogineni**, G. S. R. E. Langberg, V. Naumova, J. Nygård, M. Nygård, M. Grasmair, and S. Werner, "Recurrent time-varying multi-graph convolutional neural networks for personalized cervical cancer risk prediction," in *Proc. Asilomar Conf. Signals, Systems, and Computers*, 2021. [Link to paper](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/3047380/Asilomar2021.pdf?sequence=1)
 
-**[C7]** **V. C. Gogineni**, G. S. R. E. Langberg, V. Naumova, J. Nygård, M. Nygård, M. Grasmair, and S. Werner, "Data-driven personalized cervical cancer risk prediction: A graph-perspective," in *Proc. IEEE Int. Workshop Statistical Signal Process.*, 2021, pp. 46-50. [Link to paper] (https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/2988120/SSP_2021.pdf?sequence=1)
+**[C7]** **V. C. Gogineni**, G. S. R. E. Langberg, V. Naumova, J. Nygård, M. Nygård, M. Grasmair, and S. Werner, "Data-driven personalized cervical cancer risk prediction: A graph-perspective," in *Proc. IEEE Int. Workshop Statistical Signal Process.*, 2021, pp. 46-50. [Link to paper](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/2988120/SSP_2021.pdf?sequence=1)
 
-**[C6]** V. R. M. Elias, **V. C. Gogineni**, W. A. Martins, and S. Werner, "Kernel regression on graphs using random Fourier features," in *Proc. IEEE Int. Conf. Acoust., Speech and Signal Process.*, 2021, pp. 5235-5239. [Link to paper] (https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/2984250/vitor-icassp-2021.pdf?sequence=1&isAllowed=y)
+**[C6]** V. R. M. Elias, **V. C. Gogineni**, W. A. Martins, and S. Werner, "Kernel regression on graphs using random Fourier features," in *Proc. IEEE Int. Conf. Acoust., Speech and Signal Process.*, 2021, pp. 5235-5239. [Link to paper](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/2984250/vitor-icassp-2021.pdf?sequence=1&isAllowed=y)
 
-**[C5]** **V. C. Gogineni**, V. R. M. Elias, W. A. Martins, and S. Werner, "Graph diffusion kernel LMS using random Fourier features," in *Proc. Asilomar Conf. on Signals, Systems, and Computers*, Nov. 2020, pp. 1528-1532. [Link to paper] (https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/2984078/Kernel_Graph_Diffusion_LMS_using_Random_Fourier_Features.pdf?sequence=1)
+**[C5]** **V. C. Gogineni**, V. R. M. Elias, W. A. Martins, and S. Werner, "Graph diffusion kernel LMS using random Fourier features," in *Proc. Asilomar Conf. on Signals, Systems, and Computers*, Nov. 2020, pp. 1528-1532. [Link to paper](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/2984078/Kernel_Graph_Diffusion_LMS_using_Random_Fourier_Features.pdf?sequence=1)
 
 **[C4]** **V. C. Gogineni** and M. Chakraborty, "Partial diffusion affine projection algorithm over clustered multitask networks," in *Proc. IEEE Int. Symp. on Circuits and Syst.*, May 2019, pp. 1-5.
 
