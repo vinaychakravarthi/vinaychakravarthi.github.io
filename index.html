@@ -6,34 +6,61 @@ title: " "
 <style>
   .container {
     display: flex;
-    flex-direction: column; /* Default to column layout */
+    flex-direction: column;
     align-items: center;
     margin-bottom: 0.5px;
-    padding: 10px; /* Add padding for mobile readability */
+    padding: 10px;
   }
   .container img {
-    margin-bottom: 10px; /* Margin below image for spacing on mobile */
+    margin-bottom: 10px;
   }
   .container .text {
-    text-align: justify; /* Justify text alignment */
+    text-align: justify;
     width: 100%;
   }
   .single-column {
-    text-align: justify; /* Justify text alignment */
-    padding: 10px; /* Add padding for mobile readability */
+    text-align: justify;
+    padding: 10px;
   }
 
   /* Style for the news section */
   .news-section {
-    background-color: rgba(32, 178, 170, 0.2); /* Light teal background */
-    color: #333; /* Dark text color */
-    padding: 1px;
+    background-color: rgba(32, 178, 170, 0.2);
+    color: #333;
+    padding: 10px;
     text-align: center;
-    font-weight: normal;
-    margin-bottom: 1px; /* Space between news and content */
+    font-weight: bold;
+    position: relative;
+    overflow: hidden;
   }
 
-  /* Keyframe animation to scroll text */
+  /* Animation for blinking */
+  @keyframes blink {
+    0%, 49%, 100% {
+      opacity: 1;
+    }
+    50% {
+      opacity: 0;
+    }
+  }
+
+  /* Animation for text staying visible for 15s and blinking */
+  @keyframes showAndBlink {
+    0% {
+      opacity: 1;
+    }
+    90% {
+      opacity: 1;
+    }
+    95% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+
+  /* Scrolling animation */
   @keyframes scrollText {
     0% {
       transform: translateX(100%);
@@ -43,15 +70,21 @@ title: " "
     }
   }
 
+  /* Styling for the animated text */
+  .news-section p {
+    display: inline-block;
+    white-space: nowrap;
+    animation: scrollText 20s linear infinite, showAndBlink 15s infinite;
+  }
+
   /* Responsive adjustments */
   @media (min-width: 768px) {
     .container {
-      flex-direction: row; /* Row layout for tablets and above */
+      flex-direction: row;
     }
     .container img {
       margin-right: 20px;
-      margin-top: 50px; /* Add margin to the top of the image */
-      margin-bottom: 0; /* Reset margin for desktop */
+      margin-top: 50px;
     }
     .container .text {
       flex: 1;
@@ -61,7 +94,7 @@ title: " "
 
 <!-- News section -->
 <div class="news-section">
-  <p style="font-weight: bold; text-align: center; animation: scrollText 20s linear infinite;">
+  <p>
     Our Project <em>Learn to Unlearn: Towards Responsible AI (TRAI)</em> received funding from Novo Nordisk Fonden.
   </p>
 </div>
