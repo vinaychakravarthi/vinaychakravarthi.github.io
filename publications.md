@@ -5,6 +5,10 @@ layout: page
 
 ## Refereed Journals
 
+**[J29]** \item[J29] M. S. Cheema, A. Chawla, **V. C. Gogineni**, P. S. Rossi, "Channel estimation in RIS-aided heterogeneous wireless Networks via federated learning, *IEEE Communications Lett.*, 2025. [Link to paper](https://ieeexplore.ieee.org/document/10884956))
+
+P. Ganjimala, **V. C. Gogineni**, and S. Mula, "Performance analysis of hammerstein block-oriented functional link adaptive filters," *IEEE Signal Process. Lett.*, vol. 31, pp. 2325-2329, 2024. [Link to paper](https://findresearcher.sdu.dk/ws/portalfiles/portal/272196245/SPL.pdf)
+
 **[J28]** P. Ganjimala, **V. C. Gogineni**, and S. Mula, "Performance analysis of hammerstein block-oriented functional link adaptive filters," *IEEE Signal Process. Lett.*, vol. 31, pp. 2325-2329, 2024. [Link to paper](https://findresearcher.sdu.dk/ws/portalfiles/portal/272196245/SPL.pdf)
 
 
