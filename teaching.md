@@ -12,17 +12,17 @@ To achieve this, I emphasize student-centered learning, recognizing that each st
 ## Recent Teaching 
 
 - **2025:** Tools of Artificial Intelligence (SDU, Denmark), 5 ECTS  
-- **2023-2024:** Artificial Intelligence for Healthcare Data (SDU, Denmark), 5 ECTS  
-- **2024:** Applied Mathematics (SDU, Denmark), 5 ECTS  
+- **2023-2025:** Artificial Intelligence for Healthcare Data (SDU, Denmark), 5 ECTS  
+- **2024-2025:** Applied Mathematics (SDU, Denmark), 5 ECTS  
 - **2023:** Calculus and Linear Algebra (SDU, Denmark), 5 ECTS  
 - **2022:** Estimation, Detection, and Classification (NTNU, Norway), 7.5 ECTS  
 - **2022:** Digital Signal Processing (NTNU, Norway), 7.5 ECTS  
 
 ## Supervision
 
-- **Ph.D. Theses:** 4 (Ongoing)  
-- **Master Theses:** 4 (Completed), 2 (Ongoing)  
-- **Bachelor Theses:** 1 (Completed), 1 (Ongoing)  
+- **Ph.D. Theses:** 6 (Completed: 1, Ongoing: 5)  
+- **Master Theses:** 7 (Completed: 5, Ongoing: 2)  
+- **Bachelor Theses:** 6 (Completed: 3, Ongoing: 3)  
 
 Please find my complete teaching portfolio [here](TeachingCV.pdf).
 
