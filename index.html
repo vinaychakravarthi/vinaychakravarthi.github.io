@@ -94,13 +94,30 @@ title: " "
 
 <!-- News section -->
 <div class="news-section">
-  <p>
-    Honored to deliver a  <strong> Plenary Talk on Machine Unlearning </strong> at the HAMLET-PHYSICS 2025 Conference/Workshop, hosted by the University of Copenhagen, Denmark.
-    
-    Our Project <strong>Learn to Unlearn: Towards Responsible AI (TRAI)</strong> received funding (2.95 million DKK) from <strong> Novo Nordisk Fonden</strong>.
-    
-  </p>
+  <p id="news-text"></p>
 </div>
+
+<script>
+  // News items (each one as a separate string)
+  const newsItems = [
+    "Honored to deliver a <strong>Plenary Talk on Machine Unlearning</strong> at the HAMLET-PHYSICS 2025 Conference/Workshop, hosted by the University of Copenhagen, Denmark.",
+    "Our Project <strong>Learn to Unlearn: Towards Responsible AI (TRAI)</strong> received funding (2.95 million DKK) from <strong>Novo Nordisk Fonden</strong>."
+  ];
+
+  let currentIndex = 0;
+  const newsText = document.getElementById("news-text");
+
+  function showNews() {
+    newsText.innerHTML = newsItems[currentIndex];
+    currentIndex = (currentIndex + 1) % newsItems.length;
+  }
+
+  // Show first immediately
+  showNews();
+
+  // Switch every 2 seconds
+  setInterval(showNews, 2000);
+</script>
 
 <div class="container">
   <img src="vinay_new.jpg" alt="Vinay Gogineni" width="300" height="390">
