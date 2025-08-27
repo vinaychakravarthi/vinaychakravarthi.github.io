@@ -36,6 +36,6 @@ We are applying the innovations in Responsible AI and Next-Gen AI to real-world 
 
 **Cardio Calcification**: Calcification in coronary arteries is a critical indicator of cardiovascular disease and can lead to severe health complications. Detecting and quantifying calcification through imaging techniques is essential for assessing patient risk and planning appropriate interventions. We are developing AI-based methods to automatically identify and measure cardio calcification from medical images, improving the accuracy and efficiency of diagnosis and enabling timely medical responses.
 
-**Dementia**: Alzheimer's is a common type of Demnetia. Early and accurate diagnosis of Alzheimer's disease is crucial for effective management and treatment. AI models can assist in identifying early signs of Alzheimer's by analyzing complex medical data like brain imaging. Our research is focused on developing advanced AI models to detect and predict the progression of Alzheimer's disease, enabling timely interventions and improving patient care. 
+**Dementia**: Alzheimer’s is a common type of dementia. Early and accurate diagnosis of Alzheimer's disease is crucial for effective management and treatment. AI models can assist in identifying early signs of Alzheimer's by analyzing complex medical data like brain imaging. Our research is focused on developing advanced AI models to detect and predict the progression of Alzheimer's disease, enabling timely interventions and improving patient care. 
 
 
