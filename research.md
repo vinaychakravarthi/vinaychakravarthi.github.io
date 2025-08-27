@@ -25,9 +25,9 @@ In the rapidly evolving field of AI, advanced techniques are essential for addre
 
 **Life-long Learning**: In real-world applications, data arrives progressively, and the distribution of this data can change over time. Life-long learning allows AI models to adapt to these changes without forgetting previously learned information, ensuring robustness and flexibility. We are currently implementing life-long learning in healthcare systems, enabling our models to improve over time as they encounter new patient data and treatment outcomes.
 
-**Meta Learning**: In dynamic environments where new tasks frequently arise, the ability to quickly adapt is crucial. Meta learning enabled AI models can swiftly learn new tasks with minimal data by leveraging prior knowledge. We are applying meta learning in personalized diagnosis, where the models must adapt to individual patient needs.
-
 **Graph Machine Learning (GML)**: Many real-world systems are best represented as graphs, capturing the underlying relationships and interactions among entities (e.g., social networks, molecular structures). GML leverages this underlying geometric structure to improve predictive accuracy and insights. We are utilizing GML in biological networks to uncover insights into disease mechanisms, helping to identify potential therapeutic targets and understand complex biological processes.
+
+**Quantum Machine Learning**: Very recently, we are also embarking on Quantum AI. Our recent work explores Efficient Hybrid Quantum Vision Transformers (ViTs), combining classical and quantum components. These models are designed to work within the limitations of today’s noisy and small-scale quantum hardware, while still pushing the frontier toward practical quantum advantage. 
 
 ### 3. **Applied AI**
 We are applying the innovations in Responsible AI and Next-Gen AI to real-world domains like healthcare and fusion energy—to improve patient management and enhance the efficiency and stability of fusion energy systems, driving transformative change and creating meaningful impact in these critical areas.
