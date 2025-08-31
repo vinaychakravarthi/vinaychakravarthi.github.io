@@ -4,7 +4,10 @@ layout: page
 ---
 
 ## Refereed Journals
-**[J31]** E. Lari, R. Arablouei, **V. C. Gogineni**, and S. Werner, "Resilience in online federated learning: Mitigating model-poisoning attacks via partial sharing," *IEEE Trans. Signal and Info. Process. Networks*, 2025. 
+
+**[J31]** M. S. Cheema, A. Chawla, **V. C. Gogineni**, P. S. Rossi, "Region-specific reliable channel estimation in RIS-enabled wireless communications via clustered federated learning," *Physical Communication*, 2025. [Link to paper](https://www.sciencedirect.com/science/article/pii/S1874490725001016) 
+
+**[J31]** E. Lari, R. Arablouei, **V. C. Gogineni**, and S. Werner, "Resilience in online federated learning: Mitigating model-poisoning attacks via partial sharing," *IEEE Trans. Signal and Info. Process. Networks*, 2025. [Link to paper](https://ieeexplore.ieee.org/document/10969081) 
 
 **[J30]** E. S. Nadimi, J-M. Braun, S-O. Benedicte, S. Khare, **V. C. Gogineni**, B-V. Victoria, and G. Baatrup, "Towards full integration of explainable artificial intelligence in colon capsule endoscopy’s pathway," *Scientific Reports*, vol.15, no. 5960, 2025. [Link to paper](https://www.nature.com/articles/s41598-025-89648-z#citeas)
 
