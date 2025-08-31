@@ -71,17 +71,11 @@ layout: page
 
 *(Under Communication)*
 
-**[J32]** **V. C. Gogineni**, E. Nadimi, "Efficient knowledge deletion from trained models through layer-wise partial machine unlearning," *Journal of Machine Learning Research*, 2024 (Revised and Submitted). [Link to paper](https://findresearcher.sdu.dk/ws/portalfiles/portal/256871472/2403.07611v1.pdf)
+**[J33]** **V. C. Gogineni**, E. Nadimi, "Efficient knowledge deletion from trained models through layer-wise partial machine unlearning," *Journal of Machine Learning Research*, 2024 (Revised and Submitted). [Link to paper](https://findresearcher.sdu.dk/ws/portalfiles/portal/256871472/2403.07611v1.pdf)
 
-**[J33]** **V. C. Gogineni**, J-M Braun, B. S. Olesen and, G. Baatrup and E. Nadimi, "Enhancing polyp characterization in colon capsule endoscopy using ResNet9-KAN," *Knowledge-based Systems*, 2024 (Submitted). [Link to paper]()
-
-**[J34]** M. S. Cheema, A. Chawla, **V. C. Gogineni**, P. S. Rossi, "Region-specific reliable channel estimation in RIS-enabled wireless communications via clustered federated learning," *IEEE Internet of Things J.*, 2024 (Submitted).
+**[J34]** **V. C. Gogineni**, J-M Braun, B. S. Olesen and, G. Baatrup and E. Nadimi, "Enhancing polyp characterization in colon capsule endoscopy using ResNet9-KAN," *Knowledge-based Systems*, 2024 (Revised and Submitted). [Link to paper]()
 
 **[J35]** E. Lari, **V. C. Gogineni**, R. Arablouei and S. Werner, "Noise-robust and resource-efficient ADMM-based federated learning," *IEEE Open J. Signal Processing*, 2024 (Submitted). [Link to paper](https://arxiv.org/abs/2409.13451)
-
-**[J36]** M. Parsayan, P. F. Høilund-Carlsen, **V. C. Gogineni**, and S. Andalib, "Classification of Alzheimer’s disease, mild cognitive impairment, and healthy subjects using a multimodal dataset and multi-class machine learning algorithms," 2024 (Submitted). 
-
-**[J37]** M. Parsayan, P. F. Høilund-Carlsen, **V. C. Gogineni**, and S. Andalib, "Impact of reference region selection on SUVR values in FDG-PET imaging of Alzheimer's disease," *Neuroscience*, 2024 (Submitted).
 
 
 ## **Conference Proceedings**
