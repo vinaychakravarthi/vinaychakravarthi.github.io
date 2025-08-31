@@ -21,7 +21,7 @@ To achieve this, I emphasize student-centered learning, recognizing that each st
 ## Supervision
 
 - **Ph.D. Theses:** 6 (Completed: 1, Ongoing: 5)  
-- **Master Theses:** 7 (Completed: 5, Ongoing: 2)  
+- **Master Theses:** 8 (Completed: 6, Ongoing: 2)  
 - **Bachelor Theses:** 6 (Completed: 3, Ongoing: 3)  
 
 Please find my complete teaching portfolio [here](TeachingCV.pdf).
