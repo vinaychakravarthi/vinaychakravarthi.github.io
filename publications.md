@@ -5,6 +5,8 @@ layout: page
 
 ## Refereed Journals
 
+**[J33]** **V. C. Gogineni**, J-M Braun, B. S. Olesen and, G. Baatrup and E. Nadimi, "Enhancing polyp characterization in colon capsule endoscopy using ResNet9-KAN," *Knowledge-based Systems*, 2025. [Link to paper]()
+
 **[J32]** M. S. Cheema, A. Chawla, **V. C. Gogineni**, P. S. Rossi, "Region-specific reliable channel estimation in RIS-enabled wireless communications via clustered federated learning," *Physical Communication*, 2025. [Link to paper](https://www.sciencedirect.com/science/article/pii/S1874490725001016) 
 
 **[J31]** E. Lari, R. Arablouei, **V. C. Gogineni**, and S. Werner, "Resilience in online federated learning: Mitigating model-poisoning attacks via partial sharing," *IEEE Trans. Signal and Info. Process. Networks*, 2025. [Link to paper](https://ieeexplore.ieee.org/document/10969081) 
@@ -71,12 +73,9 @@ layout: page
 
 *(Under Communication)*
 
-**[J33]** **V. C. Gogineni**, E. Nadimi, "Efficient knowledge deletion from trained models through layer-wise partial machine unlearning," *Journal of Machine Learning Research*, 2024 (Revised and Submitted). [Link to paper](https://findresearcher.sdu.dk/ws/portalfiles/portal/256871472/2403.07611v1.pdf)
-
-**[J34]** **V. C. Gogineni**, J-M Braun, B. S. Olesen and, G. Baatrup and E. Nadimi, "Enhancing polyp characterization in colon capsule endoscopy using ResNet9-KAN," *Knowledge-based Systems*, 2024 (Revised and Submitted). [Link to paper]()
+**[J34]** **V. C. Gogineni**, E. Nadimi, "Efficient knowledge deletion from trained models through layer-wise partial machine unlearning," *Journal of Machine Learning Research*, 2024 (Revised and Submitted). [Link to paper](https://findresearcher.sdu.dk/ws/portalfiles/portal/256871472/2403.07611v1.pdf)
 
 **[J35]** E. Lari, **V. C. Gogineni**, R. Arablouei and S. Werner, "Noise-robust and resource-efficient ADMM-based federated learning," *IEEE Open J. Signal Processing*, 2024 (Submitted). [Link to paper](https://arxiv.org/abs/2409.13451)
-
 
 ## **Conference Proceedings**
 
