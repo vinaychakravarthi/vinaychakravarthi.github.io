@@ -4,6 +4,8 @@ layout: page
 ---
 
 ## Refereed Journals
+**[J35]** **V. C. Gogineni**, E. Nadimi, "Efficient knowledge deletion from trained models through layer-wise partial machine unlearning," *Journal of Machine Learning Research (JMLR) *, 2025 (Accepted). [Link to paper](https://findresearcher.sdu.dk/ws/portalfiles/portal/256871472/2403.07611v1.pdf)
+
 **[J34]** **V. C. Gogineni**, J-M Braun, B. S. Olesen and, G. Baatrup and E. Nadimi, "Enhancing polyp characterization in colon capsule endoscopy using ResNet9-KAN," *Knowledge-based Systems*, 2025. [Link to paper](https://www.sciencedirect.com/science/article/pii/S0950705125014546)
 
 **[J33]** E. Lari, **V. C. Gogineni**, R. Arablouei and S. Werner, "Noise-robust and resource-efficient ADMM-based federated learning," *IEEE Open J. Signal Processing*, 2025. [Link to paper](https://arxiv.org/abs/2409.13451)
@@ -72,9 +74,6 @@ layout: page
 
 **[J1]** B. K. N. Srinivasarao, **V. C. Gogineni**, S. Mula, and I. Chakrabarti, "A novel framework for compressed sensing based scalable video coding," *Signal Process.: Image Comm.*, vol. 57, pp. 183 - 196, 2017. [Link to paper](https://www.sciencedirect.com/science/article/abs/pii/S0923596517300863)
 
-*(Under Communication)*
-
-**[J35]** **V. C. Gogineni**, E. Nadimi, "Efficient knowledge deletion from trained models through layer-wise partial machine unlearning," *Journal of Machine Learning Research*, 2024 (Revised and Submitted). [Link to paper](https://findresearcher.sdu.dk/ws/portalfiles/portal/256871472/2403.07611v1.pdf)
 
 ## **Conference Proceedings**
 
