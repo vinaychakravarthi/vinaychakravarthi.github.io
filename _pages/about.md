@@ -31,7 +31,7 @@ I am an Associate Professor at the Applied Artificial Intelligence and Data Scie
 </p>
 
 <p style="text-align: justify;">
-Within <a href='#'>Foundational AI</a>, I advance Deep Learning and its subfields, including Graph-based and Generative models, aiming to improve model efficiency, generalization, and handling multimodalities. 
+Within <a href='#'>Foundational AI</a>, I make efforts to advance Deep Learning and its subfields, including Graph-based and Generative models, with a focus on improving model efficiency, generalization, and handling multimodalities. 
 </p>
 
 <p style="text-align: justify;">
