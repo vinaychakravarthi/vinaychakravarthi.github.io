@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Associate Professor</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Associate Professor</a>. SDU Applied AI and Data Science. SDU.
 
 profile:
   align: right
@@ -35,11 +35,11 @@ Within <a href='#'>Foundational AI</a>, I advance Deep Learning and its subfield
 </p>
 
 <p style="text-align: justify;">
-In `Responsible AI`, I develop privacy-preserving and trustworthy AI systems using Federated Learning to ensure data confidentiality while addressing challenges such as heterogeneity, communication efficiency, personalization, privacy and security. I also develop Machine Unlearning methods that help AI comply with GDPR and the AI Act, while promoting fairness, transparency, and unbiased decision-making. 
+In <a href="#">Responsible AI</a>, I develop privacy-preserving and trustworthy AI systems using Federated Learning to ensure data confidentiality while addressing challenges such as heterogeneity, communication efficiency, personalization, privacy and security. I also develop Machine Unlearning methods that help AI comply with GDPR and the AI Act, while promoting fairness, transparency, and unbiased decision-making. 
 </p>
 
 <p style="text-align: justify;">
-In <a href="#"><strong>Quantum AI</strong></a> I co-design AI architectures to align with quantum requirements, enabling efficient implementation of classical AI models in the quantum domain.
+In <a href="#">Quantum AI</a> I co-design AI architectures to align with quantum requirements, enabling efficient implementation of classical AI models in the quantum domain.
 </p>
 
 <p style="text-align: justify;">
@@ -49,9 +49,3 @@ In addition to fundamental research, my research in <a href='#'>Applied AI</a> h
 <p style="text-align: justify;">
 I am an IEEE Senior Member, Affiliated member of Pioneer Center for AI, Denmark, Member of IEEE Sensors Editorial board, recipient of the HC Ørsted Research Talent Award, 2024, Denmark, Best Poster Award from HAMLETS Conference/Workshop, 2025 in Copenhagen, Denmark, and Best Paper Award from APSIPA ASC, 2021 in Tokyo, Japan.
 </p>
-
-Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
