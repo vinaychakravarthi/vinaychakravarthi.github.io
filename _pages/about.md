@@ -10,7 +10,6 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >{
   text-align: center;
-
     <p> Mærsk 2,</p>
     <p> Campusvej 55</p>
     <p> Odense, Denmark</p>}
