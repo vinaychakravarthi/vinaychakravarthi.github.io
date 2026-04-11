@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2026-03-20 05:30:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+FINU: Fisher-Informed Noise Injection for Efficient Zero-Shot Unlearning Accepted @WCCI 2026 IJCNN:smile:
