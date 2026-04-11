@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Associate Professor</a>. Applied AI and Data Science. University of Southern Denmark.
+subtitle: <a href='#'>Associate Professor</a>. University of Southern Denmark.
 
 profile:
   align: right
