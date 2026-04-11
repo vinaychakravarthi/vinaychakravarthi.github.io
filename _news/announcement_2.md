@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-FINU: Fisher-Informed Noise Injection for Efficient Zero-Shot Unlearning has been Accepted at TTU @ ICLR 2026 in the Main Track. Congratulations Varun 👏. 
+FINU: Fisher-Informed Noise Injection for Efficient Zero-Shot Unlearning has been Accepted to the Third Workshop on Test-Time Updates (Main Track) @ ICLR 2026. Congratulations Varun 👏. 
