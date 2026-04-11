@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2026-04-1 11:30:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Carlsberg Foundation granted 80000 DKK to support Scandinavian conference on AI (SCAI), 2026.
