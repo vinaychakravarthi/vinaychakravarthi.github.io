@@ -49,3 +49,5 @@ In addition to fundamental research, my research in <a href='#'>Applied AI</a> h
 <p style="text-align: justify;">
 I am an IEEE Senior Member, Affiliated member of Pioneer Center for AI, Denmark, Member of IEEE Sensors Editorial board, recipient of the HC Ørsted Research Talent Award, 2024, Denmark, Best Poster Award from HAMLETS Conference/Workshop, 2025 in Copenhagen, Denmark, and Best Paper Award from APSIPA ASC, 2021 in Tokyo, Japan.
 </p>
+
+<h2>Collaboration Opportunities</h2>
