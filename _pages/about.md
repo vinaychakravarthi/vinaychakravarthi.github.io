@@ -28,8 +28,11 @@ latest_posts:
 ---
 <p style="text-align: justify;">
 I am an Associate Professor at the Applied Artificial Intelligence and Data Science Unit, The Mærsk Mc-Kinney Møller Institute, University of Southern Denmark. I conduct research in Artificial Intelligence (AI), focusing on three core pillars including foundational AI, responsible AI, and quantum AI, with applications in healthcare, the industrial internet of things, life sciences, and optics.
+</p>
 
+<p style="text-align: justify;">
 Within Foundational AI, I advance Deep Learning and its subfields, including Graph-based and Generative models, aiming to improve model efficiency, generalization, and handling multimodalities. 
+</p>
 
 In Responsible AI, I develop privacy-preserving and trustworthy AI systems using Federated Learning to ensure data confidentiality while addressing challenges such as heterogeneity, communication efficiency, personalization, privacy and security. I also develop Machine Unlearning methods that help AI comply with GDPR and the AI Act, while promoting fairness, transparency, and unbiased decision-making. 
 
