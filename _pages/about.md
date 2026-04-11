@@ -39,7 +39,11 @@ In Responsible AI, I develop privacy-preserving and trustworthy AI systems using
 </p>
 
 <p style="text-align: justify;">
-In Quantum AI, I develop novel quantum architectures that re-imagines and enables efficient implementation of classical AI models in the quantum domain. In addition to fundamental research, my applied research has led to the development of a personalized cervical cancer screening recommender system to mitigate under- and over-treatment, and continues with AI-based early detection systems for colorectal cancer, cardio calcification, and dementia.
+In Quantum AI, I co-design AI architectures to align with quantum requirements, enabling efficient implementation of classical AI models in the quantum domain.
+</p>
+
+<p style="text-align: justify;">
+In addition to fundamental research, my applied research has led to the development of a personalized cervical cancer screening recommender system to mitigate under- and over-treatment, and continues with AI-based early detection systems for colorectal cancer, cardio calcification, and dementia.
 </p>
 
 <p style="text-align: justify;">
