@@ -35,7 +35,7 @@ Within Foundational AI, I advance Deep Learning and its subfields, including Gra
 </p>
 
 <p style="text-align: justify;">
-In Responsible AI, I develop privacy-preserving and trustworthy AI systems using Federated Learning to ensure data confidentiality while addressing challenges such as heterogeneity, communication efficiency, personalization, privacy and security. I also develop Machine Unlearning methods that help AI comply with GDPR and the AI Act, while promoting fairness, transparency, and unbiased decision-making. 
+In <a href='#'>Responsible AI</a>, I develop privacy-preserving and trustworthy AI systems using Federated Learning to ensure data confidentiality while addressing challenges such as heterogeneity, communication efficiency, personalization, privacy and security. I also develop Machine Unlearning methods that help AI comply with GDPR and the AI Act, while promoting fairness, transparency, and unbiased decision-making. 
 </p>
 
 <p style="text-align: justify;">
