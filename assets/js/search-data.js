@@ -440,7 +440,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-finu-fisher-informed-noise-injection-for-efficient-zero-shot-unlearning-has-been-accepted-at-ttu-iclr-2026-in-the-main-track",
+            },},{id: "news-finu-fisher-informed-noise-injection-for-efficient-zero-shot-unlearning-has-been-accepted-at-ttu-iclr-2026-in-the-main-track-congratulations-varun",
           title: 'FINU: Fisher-Informed Noise Injection for Efficient Zero-Shot Unlearning has been Accepted at TTU...',
           description: "",
           section: "News",},{id: "news-finu-fisher-informed-noise-injection-for-efficient-zero-shot-unlearning-accepted-wcci-2026-ijcnn",
