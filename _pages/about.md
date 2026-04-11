@@ -34,10 +34,15 @@ I am an Associate Professor at the Applied Artificial Intelligence and Data Scie
 Within Foundational AI, I advance Deep Learning and its subfields, including Graph-based and Generative models, aiming to improve model efficiency, generalization, and handling multimodalities. 
 </p>
 
+<p style="text-align: justify;">
 In Responsible AI, I develop privacy-preserving and trustworthy AI systems using Federated Learning to ensure data confidentiality while addressing challenges such as heterogeneity, communication efficiency, personalization, privacy and security. I also develop Machine Unlearning methods that help AI comply with GDPR and the AI Act, while promoting fairness, transparency, and unbiased decision-making. 
+</p>
 
+<p style="text-align: justify;">
 In Quantum AI, I develop novel quantum architectures that re-imagines and enables efficient implementation of classical AI models in the quantum domain. In addition to fundamental research, my applied research has led to the development of a personalized cervical cancer screening recommender system to mitigate under- and over-treatment, and continues with AI-based early detection systems for colorectal cancer, cardio calcification, and dementia.
+</p>
 
+<p style="text-align: justify;">
 I am an IEEE Senior Member, Affiliated member of Pioneer Center for AI, Denmark, Member of IEEE Sensors Editorial board, recipient of the HC Ørsted Research Talent Award, 2024, Denmark, Best Poster Award from HAMLETS Conference/Workshop, 2025 in Copenhagen, Denmark, and Best Paper Award from APSIPA ASC, 2021 in Tokyo, Japan.
 </p>
 
