@@ -445,8 +445,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-finu-fisher-informed-noise-injection-for-efficient-zero-shot-unlearning-accepted-wcci-2026-ijcnn-smile",
+          title: 'FINU: Fisher-Informed Noise Injection for Efficient Zero-Shot Unlearning Accepted @WCCI 2026 IJCNN:smile:',
           description: "",
           section: "News",},{id: "news-carlsberg-foundation-granted-80000-dkk-to-support-scandinavian-conference-on-ai-scai-2026",
           title: 'Carlsberg Foundation granted 80000 DKK to support Scandinavian conference on AI (SCAI), 2026....',
