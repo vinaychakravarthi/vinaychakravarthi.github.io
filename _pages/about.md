@@ -31,7 +31,7 @@ I am an Associate Professor at the Applied Artificial Intelligence and Data Scie
 </p>
 
 <p style="text-align: justify;">
-Within Foundational AI, I advance Deep Learning and its subfields, including Graph-based and Generative models, aiming to improve model efficiency, generalization, and handling multimodalities. 
+Within <a href='#'>Foundational AI</a>, I advance Deep Learning and its subfields, including Graph-based and Generative models, aiming to improve model efficiency, generalization, and handling multimodalities. 
 </p>
 
 <p style="text-align: justify;">
@@ -39,11 +39,11 @@ In <a href='#'>Responsible AI</a>, I develop privacy-preserving and trustworthy 
 </p>
 
 <p style="text-align: justify;">
-In Quantum AI, I co-design AI architectures to align with quantum requirements, enabling efficient implementation of classical AI models in the quantum domain.
+In <a href='#'>Quantum AI</a>, I co-design AI architectures to align with quantum requirements, enabling efficient implementation of classical AI models in the quantum domain.
 </p>
 
 <p style="text-align: justify;">
-In addition to fundamental research, my applied research has led to the development of a personalized cervical cancer screening recommender system to mitigate under- and over-treatment, and continues with AI-based early detection systems for colorectal cancer, cardio calcification, and dementia.
+In addition to fundamental research, my research in <a href='#'>Applied AI</a> has led to the development of a personalized cervical cancer screening recommender system to mitigate under- and over-treatment, and continues with AI-based early detection systems for colorectal cancer, cardio calcification, and dementia.
 </p>
 
 <p style="text-align: justify;">
