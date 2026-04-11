@@ -10,10 +10,10 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >{
   text-align: center;
-}
+
     <p> Mærsk 2,</p>
     <p> Campusvej 55</p>
-    <p> Odense, Denmark</p>
+    <p> Odense, Denmark</p>}
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
