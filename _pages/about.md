@@ -35,15 +35,15 @@ Within <strong><a href='#'>Foundational AI</a></strong>, I make efforts to advan
 </p>
 
 <p style="text-align: justify;">
-In <a href="#">Responsible AI</a>, I develop privacy-preserving and trustworthy AI systems using Federated Learning to ensure data confidentiality while addressing challenges such as heterogeneity, communication efficiency, personalization, privacy and security. I also develop Machine Unlearning methods that help AI comply with GDPR and the AI Act, while promoting fairness, transparency, and unbiased decision-making. 
+In <strong><a href="#">Responsible AI</a></strong>, I develop privacy-preserving and trustworthy AI systems using Federated Learning to ensure data confidentiality while addressing challenges such as heterogeneity, communication efficiency, personalization, privacy and security. I also develop Machine Unlearning methods that help AI comply with GDPR and the AI Act, while promoting fairness, transparency, and unbiased decision-making. 
 </p>
 
 <p style="text-align: justify;">
-In <a href="#">Quantum AI</a> I co-design AI architectures to align with quantum requirements, enabling efficient implementation of classical AI models in the quantum domain.
+In <strong><a href="#">Quantum AI</a></strong> I co-design AI architectures to align with quantum requirements, enabling efficient implementation of classical AI models in the quantum domain.
 </p>
 
 <p style="text-align: justify;">
-In addition to fundamental research, my research in <a href='#'>Applied AI</a> has led to the development of a personalized cervical cancer screening recommender system to mitigate under- and over-treatment, and continues with AI-based early detection systems for colorectal cancer, cardio calcification, and dementia.
+In addition to fundamental research, my research in <strong><a href='#'>Applied AI</a></strong> has led to the development of a personalized cervical cancer screening recommender system to mitigate under- and over-treatment, and continues with AI-based early detection systems for colorectal cancer, cardio calcification, and dementia.
 </p>
 
 <p style="text-align: justify;">
