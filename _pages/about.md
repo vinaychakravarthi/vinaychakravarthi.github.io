@@ -39,7 +39,7 @@ In <strong><a href="#">Responsible AI</a></strong>, I develop privacy-preserving
 </p>
 
 <p style="text-align: justify;">
-In <strong><a href="#">Quantum AI</a></strong> I co-design AI architectures to align with quantum requirements, enabling efficient implementation of classical AI models in the quantum domain.
+In <strong><a href="#">Quantum AI</a></strong>, I co-design AI architectures to align with quantum requirements, enabling efficient implementation of classical AI models in the quantum domain.
 </p>
 
 <p style="text-align: justify;">
