@@ -440,8 +440,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-finu-fisher-informed-noise-injection-for-efficient-zero-shot-unlearning-has-been-accepted-to-the-third-workshop-on-test-time-updates-main-track-iclr-2026-congratulations-varun",
-          title: 'FINU: Fisher-Informed Noise Injection for Efficient Zero-Shot Unlearning has been Accepted to the...',
+            },},{id: "news-on-the-path-dependence-of-gradient-ascent-based-unlearning-has-been-accepted-to-the-third-workshop-on-test-time-updates-main-track-iclr-2026-congratulations-varun",
+          title: 'On the Path Dependence of Gradient Ascent-Based Unlearning has been Accepted to the...',
           description: "",
           section: "News",},{id: "news-finu-fisher-informed-noise-injection-for-efficient-zero-shot-unlearning-has-been-accepted-to-the-wcci-2026-ijcnn-congratulations-varun",
           title: 'FINU: Fisher-Informed Noise Injection for Efficient Zero-Shot Unlearning has been Accepted to the...',
