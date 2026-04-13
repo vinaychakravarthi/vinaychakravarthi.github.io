@@ -24,11 +24,11 @@ ninja.data = [{
             window.location.href = "/Publications/";
           },
         },{id: "nav-projects",
-          title: "projects",
+          title: "Projects",
           description: "A growing collection of your cool projects.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/projects/";
+            window.location.href = "/Projects/";
           },
         },{id: "nav-repositories",
           title: "repositories",
@@ -453,7 +453,7 @@ ninja.data = [{
           title: 'Carlsberg Foundation granted 80000 DKK to support Scandinavian conference on AI (SCAI), 2026....',
           description: "",
           section: "News",},{id: "projects-project-1",
-          title: 'project 1',
+          title: 'Project 1',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
