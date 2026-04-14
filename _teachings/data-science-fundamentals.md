@@ -6,9 +6,10 @@ instructor: Vinay Chakravarthi Gogineni, Smith Khare and Orkun Furat
 year: 2026
 term: Spring
 location: SDU, Odense U150
-time: Wednesdays, 08:00-12:00
+time: Wednesdays, 08:00-12:00 AM
 course_id: T550021101
-
+ECTS: 5
+---
 ## Course Overview
 
 This course provides a comprehensive introduction to AI foundations.
