@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-*On the Path Dependence of Gradient Ascent-Based Unlearning* has been Accepted to the Third Workshop on Test-Time Updates (Main Track) @ ICLR 2026. Congratulations Varun 👏. 
+*On the Path Dependence of Gradient Ascent-Based Unlearning* has been Accepted to the Third Workshop on Test-Time Updates (Main Track) @ ICLR 2026! Congratulations Varun 👏. 
