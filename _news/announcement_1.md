@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Carlsberg Foundation granted 80000 DKK to support Scandinavian conference on AI (SCAI), 2026.
+Carlsberg Foundation granted 80000 DKK to support Scandinavian conference on AI (SCAI), 2026! We sincerely thank the Carlsberg Foundation for their generous support.
