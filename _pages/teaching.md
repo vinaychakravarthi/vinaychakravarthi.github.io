@@ -1,7 +1,11 @@
 ---
-title: Teaching
-permalink:	/Teaching/
 layout: page
+permalink: /teaching/
+title: teaching
+description: Course materials, schedules, and resources for classes taught.
+nav: true
+nav_order: 6
+calendar: true
 ---
 
 As an Associate Professor specializing in artificial intelligence (AI), I am passionate about advancing the field through research while mentoring the next generation of AI professionals. I aim to bridge the gap between theoretical AI concepts and their real-world applications in the classroom. This dual commitment to both research and teaching enables me to cultivate a dynamic learning environment where students are encouraged to engage deeply with AI concepts and explore how they can be applied to real-world challenges.
