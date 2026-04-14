@@ -46,7 +46,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "Teaching",
-          description: "Course materials, schedules, and resources for classes taught.",
+          description: "Details of Academic Courses.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/Teaching/";
@@ -499,7 +499,7 @@ ninja.data = [{
               window.location.href = "/projects/9_project/";
             },},{id: "teachings-tools-of-artificial-intelligence",
           title: 'Tools of Artificial intelligence',
-          description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
+          description: "This course covers the foundational aspects of neural networks, genetic algorithms and reinforcement learning.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/data-science-fundamentals/";
             },},{id: "teachings-introduction-to-machine-learning",
