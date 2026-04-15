@@ -450,7 +450,7 @@ ninja.data = [{
           title: 'RKLU: Redistribute KL Distillation for Efficient Retain-Free Machine Unlearning has been Accepted to...',
           description: "",
           section: "News",},{id: "news-carlsberg-foundation-granted-80000-dkk-to-support-scandinavian-conference-on-ai-scai-2026-i-sincerely-thank-the-carlsberg-foundation-for-their-generous-support",
-          title: 'Carlsberg Foundation granted 80000 DKK to support Scandinavian conference on AI (SCAI), 2026!...',
+          title: 'Carlsberg Foundation granted 80000 DKK to support Scandinavian Conference on AI (SCAI), 2026!...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'Project 1',
