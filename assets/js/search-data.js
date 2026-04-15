@@ -440,7 +440,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-on-the-path-dependence-of-gradient-ascent-based-unlearning-has-been-accepted-to-the-third-workshop-on-test-time-updates-main-track-iclr-2026-congratulations-varun",
+            },},{id: "news-the-pioneer-center-for-ai-denmark-granted-30000-dkk-to-support-scandinavian-conference-on-ai-scai-2026-i-sincerely-thank-the-pioneer-center-for-ai-denmark-for-their-generous-support",
+          title: 'The Pioneer Center for AI, Denmark granted 30000 DKK to support Scandinavian Conference...',
+          description: "",
+          section: "News",},{id: "news-on-the-path-dependence-of-gradient-ascent-based-unlearning-has-been-accepted-to-the-third-workshop-on-test-time-updates-main-track-iclr-2026-congratulations-varun",
           title: 'On the Path Dependence of Gradient Ascent-Based Unlearning has been Accepted to the...',
           description: "",
           section: "News",},{id: "news-finu-fisher-informed-noise-injection-for-efficient-zero-shot-unlearning-has-been-accepted-to-the-wcci-2026-ijcnn-congratulations-varun",
@@ -451,9 +454,6 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-carlsberg-foundation-granted-80000-dkk-to-support-scandinavian-conference-on-ai-scai-2026-i-sincerely-thank-the-carlsberg-foundation-for-their-generous-support",
           title: 'Carlsberg Foundation granted 80000 DKK to support Scandinavian Conference on AI (SCAI), 2026!...',
-          description: "",
-          section: "News",},{id: "news-the-pioneer-center-for-ai-denmark-granted-30000-dkk-to-support-scandinavian-conference-on-ai-scai-2026-i-sincerely-thank-the-pioneer-center-for-ai-denmark-for-their-generous-support",
-          title: 'The Pioneer Center for AI, Denmark granted 30000 DKK to support Scandinavian Conference...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'Project 1',
