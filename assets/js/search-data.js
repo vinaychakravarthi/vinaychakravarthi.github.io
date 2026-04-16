@@ -51,12 +51,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/Teaching/";
           },
-        },{id: "nav-people",
-          title: "people",
+        },{id: "nav-my-team",
+          title: "My Team",
           description: "members of the lab or group",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/Responsible%20AI%20Lab/";
+            window.location.href = "/My%20Team/";
           },
         },{id: "dropdown-bookshelf",
               title: "bookshelf",
