@@ -56,7 +56,7 @@ ninja.data = [{
           description: "members of the lab or group",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/people/";
+            window.location.href = "/Responsible%20AI%20Lab/";
           },
         },{id: "dropdown-bookshelf",
               title: "bookshelf",
