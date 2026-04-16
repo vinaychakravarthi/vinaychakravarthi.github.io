@@ -1,7 +1,7 @@
 ---
 layout: profiles
-permalink: /Responsible AI Lab/
-title: people
+permalink: /My Team/
+title: My Team
 description: members of the lab or group
 nav: true
 nav_order: 7
