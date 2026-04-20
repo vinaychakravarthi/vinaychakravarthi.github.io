@@ -38,7 +38,7 @@ To achieve this, I emphasize student-centered learning, recognizing that each st
   <li><strong>Bachelor Theses:</strong> 6 (Completed 3, Ongoing 3)</li>
 </ul>
 
-<p style="text-align: justify;">
+
 Please find my complete teaching portfolio [here](https://findresearcher.sdu.dk/ws/portalfiles/portal/cv/622bdf7d-79e2-4c8e-8979-873b004a3ab2?locale=en_GB).
-</p>
+
 
