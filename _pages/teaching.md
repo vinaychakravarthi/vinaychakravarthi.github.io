@@ -21,26 +21,24 @@ To achieve this, I emphasize student-centered learning, recognizing that each st
 
 ## Recent Teaching 
 
-- **2025-2026:** Tools of Artificial Intelligence (SDU, Denmark), 5 ECTS
-- 
-- **2023-2025:** Artificial Intelligence for Healthcare Data (SDU, Denmark), 5 ECTS
--  
-- **2024-2025:** Applied Mathematics (SDU, Denmark), 5 ECTS
-- 
-- **2023:** Calculus and Linear Algebra (SDU, Denmark), 5 ECTS
+<ul style="line-height: 1.5;">
+  <li><strong>2025–2026:</strong> Tools of Artificial Intelligence (SDU, Denmark), 5 ECTS</li>
+  <li><strong>2023–2025:</strong> Artificial Intelligence for Healthcare Data (SDU, Denmark), 5 ECTS</li>
+  <li><strong>2024–2025:</strong> Applied Mathematics (SDU, Denmark), 5 ECTS</li>
+  <li><strong>2023:</strong> Calculus and Linear Algebra (SDU, Denmark), 5 ECTS</li>
+  <li><strong>2022:</strong> Estimation, Detection, and Classification (NTNU, Norway), 7.5 ECTS</li>
+  <li><strong>2022:</strong> Digital Signal Processing (NTNU, Norway), 7.5 ECTS</li>
+</ul>
 
-- **2022:** Estimation, Detection, and Classification (NTNU, Norway), 7.5 ECTS
-- 
-- **2022:** Digital Signal Processing (NTNU, Norway), 7.5 ECTS  
+<h2>Supervision</h2>
 
-## Supervision
+<ul style="line-height: 1.5;">
+  <li><strong>Ph.D. Theses:</strong> 6 (Completed 1, Ongoing 5)</li>
+  <li><strong>Master Theses:</strong> 8 (Completed 6, Ongoing 2)</li>
+  <li><strong>Bachelor Theses:</strong> 6 (Completed 3, Ongoing 3)</li>
+</ul>
 
-- **Ph.D. Theses:** 6 (Completed: 1, Ongoing: 5)
-- 
-- **Master Theses:** 8 (Completed: 6, Ongoing: 2)
-- 
-- **Bachelor Theses:** 6 (Completed: 3, Ongoing: 3)  
-
+<p style="text-align: justify;">
 Please find my complete teaching portfolio [here](https://findresearcher.sdu.dk/ws/portalfiles/portal/cv/622bdf7d-79e2-4c8e-8979-873b004a3ab2?locale=en_GB).
-
+</p>
 
