@@ -1,28 +1,45 @@
+```yaml id="94te3a"
 ---
 layout: profiles
-permalink: /Team/
+permalink: /team/
 title: Team
 description: Members of the group
 nav: true
 nav_order: 7
 
 profiles:
-  # if you want to include more than one profile, just replicate the following block
-  # and create one content file for each profile inside _pages/
   - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
+    image: assets/img/profile1.jpg
+    image_circular: true
+    content: >
+      ## Varun Sampath Kumar
+
+Varun, is a PhD student at the Applied AI and Data Science Unit, The Maersk Mc-Kinney Møller Institute, University of Southern Denmark (SDU). His research centers on trustworthy AI and Responsible AI, with a focus on Machine Unlearning. He is particularly interested in developing robust machine unlearning algorithms for both vision (discriminative and generative) models and large language models (LLMs).
+
+Before joining SDU, Varun received Integrated M.Sc. (B.Sc. + M.Sc.) in Data Science from PSG College of Technology (an autonomous institution under Anna University) in June 2025. He has completed several internships at KLA, primarily working on self-supervised learning for wafer defect classification and contributed to data engineering pipelines involving Apache Iceberg, DuckDB, and PySpark.
+      
+
+      Email: vaku@mmmi.sdu.dk
+
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Department of Engineering</p>
+      <p>Denmark</p>
+
   - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
+    image: assets/img/profile2.jpg
+    image_circular: true
+    content: >
+      ## Second Member
+
+      Research Assistant working on computer vision and embedded systems.
+
+      Interests:
+      - Deep Learning
+      - Edge AI
+      - Sensor Systems
+
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Research Group Member</p>
+      <p>Aarhus University</p>
 ---
+```
