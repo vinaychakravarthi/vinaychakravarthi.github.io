@@ -17,28 +17,7 @@ Varun, is a PhD student at the Applied AI and Data Science Unit, The Maersk Mc-K
 
 Before joining SDU, Varun received Integrated M.Sc. (B.Sc. + M.Sc.) in Data Science from PSG College of Technology (an autonomous institution under Anna University) in June 2025. He has completed several internships at KLA, primarily working on self-supervised learning for wafer defect classification and contributed to data engineering pipelines involving Apache Iceberg, DuckDB, and PySpark.
       
+Email: vaku@mmmi.sdu.dk
 
-      Email: vaku@mmmi.sdu.dk
-
-    more_info: >
-      <p>Department of Engineering</p>
-      <p>Denmark</p>
-
-  - align: left
-    image: assets/img/profile2.jpg
-    image_circular: true
-    content: >
-      ## Second Member
-
-      Research Assistant working on computer vision and embedded systems.
-
-      Interests:
-      - Deep Learning
-      - Edge AI
-      - Sensor Systems
-
-    more_info: >
-      <p>Research Group Member</p>
-      <p>Aarhus University</p>
 ---
 ```
