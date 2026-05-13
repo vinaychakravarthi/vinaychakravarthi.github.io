@@ -9,7 +9,7 @@ nav_order: 7
 
 profiles:
   - align: right
-    image: assets/img/profile1.jpg
+    image: prof_pic.jpg
     image_circular: true
     content: >
       ## Varun Sampath Kumar
