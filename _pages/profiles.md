@@ -1,8 +1,8 @@
 ---
 layout: profiles
-permalink: /My Team/
-title: My Team
-description: members of the lab or group
+permalink: /Team/
+title: Team
+description: Members of the group
 nav: true
 nav_order: 7
 
