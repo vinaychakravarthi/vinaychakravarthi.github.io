@@ -1,7 +1,7 @@
 ```yaml
 ---
 layout: profiles
-permalink: /team/
+permalink: /Team/
 title: Team
 description: Members of the group
 nav: true
