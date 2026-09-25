@@ -23,7 +23,7 @@ Modern AI models memorize the data they are trained on. When individuals exercis
 
 ### Our approach: selective unlearning
 
-Most existing unlearning methods erase the targeted information blindly, updating the model as if everything learned from the forget data should be removed. But data samples share knowledge: what a model learns from one sample often also represents general patterns present across many others. Erasing blindly damages this shared, generalized knowledge and degrades the model's performance on the data it should still handle well.
+Majority of the existing unlearning methods erase the targeted information blindly, updating the model as if everything learned from the forget data should be removed. But data samples share knowledge: what a model learns from one sample often also represents general patterns present across many others. Erasing blindly damages this shared, generalized knowledge and degrades the model's performance on the data it should still handle well.
 
 In TRAI, we develop **selective unlearning** methods. Instead of erasing everything associated with the targeted data, we identify and remove only the information that is specific to it, while preserving the generalized knowledge shared across different data samples. The result is a model that has genuinely forgotten what it should, without losing what it should keep.
 
