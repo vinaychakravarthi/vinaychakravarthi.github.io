@@ -21,7 +21,7 @@ related_publications: false
 
 Modern AI models memorize the data they are trained on. When individuals exercise their right to be forgotten under the GDPR, when training data turns out to be erroneous, biased or harmful, or when regulations such as the EU AI Act require specific information to be removed, that information has to be erased from the trained model itself. Retraining from scratch without the data is usually far too costly, which makes **machine unlearning**, the removal of the influence of specific data from an already-trained model, a key building block for responsible AI.
 
-### Our approach: selective unlearning
+### Our Approach is Selective Unlearning
 
 Majority of the existing unlearning methods erase the targeted information blindly, updating the model as if everything learned from the forget data should be removed. But data samples share knowledge: what a model learns from one sample often also represents general patterns present across many others. Erasing blindly damages this shared, generalized knowledge and degrades the model's performance on the data it should still handle well.
 
