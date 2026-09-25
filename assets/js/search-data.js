@@ -398,10 +398,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-rklu-redistribute-kl-distillation-for-efficient-retain-free-machine-unlearning-has-been-accepted-to-the-esann-2026-congratulations-varun",
-          title: 'RKLU: Redistribute KL Distillation for Efficient Retain-Free Machine Unlearning has been Accepted to...',
-          description: "",
-          section: "News",},{id: "news-on-the-path-dependence-of-gradient-ascent-based-unlearning-has-been-accepted-to-the-third-workshop-on-test-time-updates-main-track-iclr-2026-congratulations-varun",
+            },},{id: "news-on-the-path-dependence-of-gradient-ascent-based-unlearning-has-been-accepted-to-the-third-workshop-on-test-time-updates-main-track-iclr-2026-congratulations-varun",
           title: 'On the Path Dependence of Gradient Ascent-Based Unlearning has been Accepted to the...',
           description: "",
           section: "News",},{id: "news-finu-fisher-informed-noise-injection-for-efficient-zero-shot-unlearning-has-been-accepted-to-the-wcci-2026-ijcnn-congratulations-varun",
@@ -415,6 +412,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-the-metric-not-the-model-anatomy-confounds-attention-faithfulness-in-coronary-calcium-has-been-accepted-to-mi4medfm-at-miccai-2026-congratulations-congratulations-jyothi",
           title: 'The Metric, Not the Model: Anatomy Confounds Attention Faithfulness in Coronary Calcium, has...',
+          description: "",
+          section: "News",},{id: "news-delivered-a-talk-titled-responsible-ai-in-clinical-and-public-health-trust-fairness-and-privacy-at-national-institute-of-public-health-copenhagen",
+          title: '*Delivered a talk titled “Responsible AI in Clinical and Public Health: Trust, Fairness,...',
           description: "",
           section: "News",},{id: "projects-detect-ai",
           title: 'DETECT AI',
