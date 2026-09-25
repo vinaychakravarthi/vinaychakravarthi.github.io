@@ -22,6 +22,7 @@ To achieve this, I emphasize student-centered learning, recognizing that each st
 ## Recent Teaching 
 
 <ul style="line-height: 1.5;">
+  <li><strong>2026:</strong> Responsible and Safe AI (PhD Course) (SDU, Denmark), 5 ECTS</li>
   <li><strong>2025–2026:</strong> Tools of Artificial Intelligence (SDU, Denmark), 5 ECTS</li>
   <li><strong>2023–2025:</strong> Artificial Intelligence for Healthcare Data (SDU, Denmark), 5 ECTS</li>
   <li><strong>2024–2025:</strong> Applied Mathematics (SDU, Denmark), 5 ECTS</li>
