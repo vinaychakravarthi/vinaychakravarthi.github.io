@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 Our bachelors' students thesis work "Synthetic Data Augmentation via Stable Diffusion for Polyp Characterisation in Colon Capsule Endoscopy"
-has now been accepted at the SASHIMI@MICCAI 2026 workshop. Congratulations Florentin Mustafa and Mohamed Wali-Wali. 
+has been accepted to SASHIMI@MICCAI 2026. Congratulations Florentin Mustafa and Mohamed Wali-Wali. 
