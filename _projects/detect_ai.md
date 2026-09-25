@@ -2,7 +2,7 @@
 layout: page
 title: DETECT AI
 description: Early detection of Coronary Artery Calcification from routine chest CT scans (2025–2030, Innovation Fund Denmark)
-img: assets/img/detect_ai.png
+img: assets/img/detectai.png
 importance: 2
 category: work
 related_publications: false
