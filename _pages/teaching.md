@@ -24,8 +24,8 @@ To achieve this, I emphasize student-centered learning, recognizing that each st
 <ul style="line-height: 1.5;">
   <li><strong>2026:</strong> Responsible and Safe AI (PhD Course) (SDU, Denmark), 5 ECTS</li>
   <li><strong>2025–2026:</strong> Tools of Artificial Intelligence (SDU, Denmark), 5 ECTS</li>
-  <li><strong>2023–2025:</strong> Artificial Intelligence for Healthcare Data (SDU, Denmark), 5 ECTS</li>
-  <li><strong>2024–2025:</strong> Applied Mathematics (SDU, Denmark), 5 ECTS</li>
+  <li><strong>2023–Present:</strong> Artificial Intelligence for Healthcare Data (SDU, Denmark), 5 ECTS</li>
+  <li><strong>2024–Present:</strong> Applied Mathematics (SDU, Denmark), 5 ECTS</li>
   <li><strong>2023:</strong> Calculus and Linear Algebra (SDU, Denmark), 5 ECTS</li>
   <li><strong>2022:</strong> Estimation, Detection, and Classification (NTNU, Norway), 7.5 ECTS</li>
   <li><strong>2022:</strong> Digital Signal Processing (NTNU, Norway), 7.5 ECTS</li>
@@ -34,9 +34,9 @@ To achieve this, I emphasize student-centered learning, recognizing that each st
 <h2>Supervision</h2>
 
 <ul style="line-height: 1.5;">
-  <li><strong>Ph.D. Theses:</strong> 6 (Completed 1, Ongoing 5)</li>
+  <li><strong>Ph.D. Theses:</strong> 6 (Completed 2, Ongoing 4)</li>
   <li><strong>Master Theses:</strong> 8 (Completed 6, Ongoing 2)</li>
-  <li><strong>Bachelor Theses:</strong> 6 (Completed 3, Ongoing 3)</li>
+  <li><strong>Bachelor Theses:</strong> 6 (Completed 6)</li>
 </ul>
 
 
