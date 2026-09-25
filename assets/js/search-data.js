@@ -418,7 +418,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-detect-ai",
           title: 'DETECT AI',
-          description: "Early detection of Coronary Artery Calcification from routine chest CT scans (2025–2030, Innovation Fund Denmark)",
+          description: "Early detection of Coronary Artery Calcification from Routine Chest CT scans Using Artificial Intelligence (2025–2030, Innovation Fund Denmark)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/detect_ai/";
             },},{id: "projects-trai",
