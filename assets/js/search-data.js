@@ -410,7 +410,7 @@ ninja.data = [{
           section: "News",},{id: "news-carlsberg-foundation-granted-80000-dkk-to-support-scandinavian-conference-on-ai-scai-2026-i-sincerely-thank-the-carlsberg-foundation-for-their-generous-support",
           title: 'Carlsberg Foundation granted 80000 DKK to support Scandinavian Conference on AI (SCAI), 2026!...',
           description: "",
-          section: "News",},{id: "news-our-bachelors-students-thesis-work-synthetic-data-augmentation-via-stable-diffusion-for-polyp-characterisation-in-colon-capsule-endoscopy-has-now-been-accepted-at-the-sashimi-miccai-2026-workshop-congratulations-florentin-mustafa-and-mohamed-wali-wali",
+          section: "News",},{id: "news-our-bachelors-students-thesis-work-synthetic-data-augmentation-via-stable-diffusion-for-polyp-characterisation-in-colon-capsule-endoscopy-has-been-accepted-to-sashimi-miccai-2026-congratulations-florentin-mustafa-and-mohamed-wali-wali",
           title: 'Our bachelors’ students thesis work “Synthetic Data Augmentation via Stable Diffusion for Polyp...',
           description: "",
           section: "News",},{id: "news-the-metric-not-the-model-anatomy-confounds-attention-faithfulness-in-coronary-calcium-has-been-accepted-to-mi4medfm-at-miccai-2026-congratulations-congratulations-jyothi",
