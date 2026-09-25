@@ -414,7 +414,7 @@ ninja.data = [{
           title: 'The Metric, Not the Model: Anatomy Confounds Attention Faithfulness in Coronary Calcium, has...',
           description: "",
           section: "News",},{id: "news-delivered-a-talk-titled-responsible-ai-in-clinical-and-public-health-trust-fairness-and-privacy-at-national-institute-of-public-health-copenhagen",
-          title: '*Delivered a talk titled “Responsible AI in Clinical and Public Health: Trust, Fairness,...',
+          title: 'Delivered a talk titled “Responsible AI in Clinical and Public Health: Trust, Fairness,...',
           description: "",
           section: "News",},{id: "projects-detect-ai",
           title: 'DETECT AI',
