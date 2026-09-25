@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2026-04-1 11:30:00-0400
+date: 2026-08-04 11:30:00-0400
 inline: true
 related_posts: false
 ---
 
-Carlsberg Foundation granted 80000 DKK to support Scandinavian Conference on AI (SCAI), 2026! I sincerely thank the Carlsberg Foundation for their generous support.
+Our bachelors' students thesis work "Synthetic Data Augmentation via Stable Diffusion for Polyp Characterisation in Colon Capsule Endoscopy"
+has now been accepted at the SASHIMI@MICCAI 2026 workshop. Congratulations Florentin Mustafa and Mohamed Wali-Wali. 
