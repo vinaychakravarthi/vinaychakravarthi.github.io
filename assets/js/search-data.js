@@ -416,12 +416,7 @@ ninja.data = [{
           section: "News",},{id: "news-carlsberg-foundation-granted-80000-dkk-to-support-scandinavian-conference-on-ai-scai-2026-i-sincerely-thank-the-carlsberg-foundation-for-their-generous-support",
           title: 'Carlsberg Foundation granted 80000 DKK to support Scandinavian Conference on AI (SCAI), 2026!...',
           description: "",
-          section: "News",},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
-            },},{id: "projects-detect-ai",
+          section: "News",},{id: "projects-detect-ai",
           title: 'DETECT AI',
           description: "Early detection of Coronary Artery Calcification from routine chest CT scans (2025–2030, Innovation Fund Denmark)",
           section: "Projects",handler: () => {
