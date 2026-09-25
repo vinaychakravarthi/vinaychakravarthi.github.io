@@ -398,14 +398,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-on-the-path-dependence-of-gradient-ascent-based-unlearning-has-been-accepted-to-the-third-workshop-on-test-time-updates-main-track-iclr-2026-congratulations-varun",
-          title: 'On the Path Dependence of Gradient Ascent-Based Unlearning has been Accepted to the...',
-          description: "",
-          section: "News",},{id: "news-finu-fisher-informed-noise-injection-for-efficient-zero-shot-unlearning-has-been-accepted-to-the-wcci-2026-ijcnn-congratulations-varun",
+            },},{id: "news-finu-fisher-informed-noise-injection-for-efficient-zero-shot-unlearning-has-been-accepted-to-the-wcci-2026-ijcnn-congratulations-varun",
           title: 'FINU: Fisher-Informed Noise Injection for Efficient Zero-Shot Unlearning has been Accepted to the...',
           description: "",
           section: "News",},{id: "news-carlsberg-foundation-granted-80000-dkk-to-support-scandinavian-conference-on-ai-scai-2026-i-sincerely-thank-the-carlsberg-foundation-for-their-generous-support",
           title: 'Carlsberg Foundation granted 80000 DKK to support Scandinavian Conference on AI (SCAI), 2026!...',
+          description: "",
+          section: "News",},{id: "news-delivered-a-plenary-talk-titled-responsible-ai-and-mathematical-foundations-of-machine-unlearning-at-scandinavian-conference-on-ai-scai-2026-odense",
+          title: 'Delivered a plenary talk titled “Responsible AI and Mathematical Foundations of Machine Unlearning,”...',
           description: "",
           section: "News",},{id: "news-our-bachelors-students-thesis-work-synthetic-data-augmentation-via-stable-diffusion-for-polyp-characterisation-in-colon-capsule-endoscopy-has-been-accepted-to-sashimi-miccai-2026-congratulations-florentin-mustafa-and-mohamed-wali-wali",
           title: 'Our bachelors’ students thesis work “Synthetic Data Augmentation via Stable Diffusion for Polyp...',
