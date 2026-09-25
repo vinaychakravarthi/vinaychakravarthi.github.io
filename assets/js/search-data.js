@@ -416,12 +416,7 @@ ninja.data = [{
           section: "News",},{id: "news-carlsberg-foundation-granted-80000-dkk-to-support-scandinavian-conference-on-ai-scai-2026-i-sincerely-thank-the-carlsberg-foundation-for-their-generous-support",
           title: 'Carlsberg Foundation granted 80000 DKK to support Scandinavian Conference on AI (SCAI), 2026!...',
           description: "",
-          section: "News",},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
+          section: "News",},{id: "projects-project-7",
           title: 'project 7',
           description: "with background image",
           section: "Projects",handler: () => {
