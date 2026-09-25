@@ -461,6 +461,16 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-detect-ai",
+          title: 'DETECT AI',
+          description: "Early detection of Coronary Artery Calcification from routine chest CT scans (2025–2030, Innovation Fund Denmark)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/detect_ai/";
+            },},{id: "projects-trai",
+          title: 'TRAI',
+          description: "Learn to Unlearn - Towards Responsible AI (2025–2028, Novo Nordisk Foundation)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/trai/";
             },},{id: "teachings-tools-of-artificial-intelligence",
           title: 'Tools of Artificial intelligence',
           description: "This course covers the foundational aspects of neural networks, genetic algorithms and reinforcement learning.",
