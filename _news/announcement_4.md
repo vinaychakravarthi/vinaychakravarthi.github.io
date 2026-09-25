@@ -1,9 +1,9 @@
 ---
 layout: post
-date: 2026-01-14 13:30:00-0400
+date: 2026-09-08 11:15:00-0400
 inline: true
 related_posts: false
 ---
 
-*RKLU: Redistribute KL Distillation for Efficient Retain-Free Machine Unlearning* has been Accepted to the ESANN 2026! Congratulations Varun 👏. 
+*Delivered a talk titled “Responsible AI in Clinical and Public Health: Trust, Fairness, and Privacy,” at National Institute of Public Health, Copenhagen. 
 
