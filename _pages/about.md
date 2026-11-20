@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 <p style="text-align: justify;">
-I am an Associate Professor at the Applied Artificial Intelligence and Data Science Unit, The Mærsk Mc-Kinney Møller Institute, University of Southern Denmark. I conduct research in Artificial Intelligence (AI), focusing on three core pillars including foundational AI, responsible AI, and quantum AI, with applications in healthcare, the industrial internet of things, life sciences, and optics.
+I am an Associate Professor at the Applied Artificial Intelligence and Data Science Unit, The Mærsk Mc-Kinney Møller Institute, University of Southern Denmark, where I lead the <a href='https://responsibleandsafeai-sdu.github.io/'><strong>Responsible and Safe AI Lab</strong></a>. I conduct research in Artificial Intelligence (AI), focusing on three core pillars including foundational AI, responsible AI, and quantum AI, with applications in healthcare, the industrial internet of things, life sciences, and optics.
 </p>
 
 <p style="text-align: justify;">
