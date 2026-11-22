@@ -8,7 +8,7 @@ category: work
 related_publications: false
 ---
 
-**DETECT AI – Early Detection of Coronary Artery Calcification from Routine Chest CT Scans Using Artificial Intelligence**
+**Early Detection of Coronary Artery Calcification from Routine Chest CT Scans Using Artificial Intelligence**
 
 | | |
 | --- | --- |
@@ -27,4 +27,10 @@ At the same time, a very large number of chest CT scans are performed every day 
 
 ### What We Do: Opportunistic Screening
 
-DETECT AI takes an **opportunistic** approach to cardiovascular screening. We are developing an AI-driven, computer-aided system to assess coronary artery calcium (CAC) risk from routine chest CT scans that were taken for other purposes. This makes it possible to identify people at-risk patients early, without extra scans, extra radiation or extra cost, so that preventive treatment can start before a cardiac event occurs.
+DETECT AI takes an **opportunistic** approach to cardiovascular screening. We are developing an AI-driven, computer-aided system to assess coronary artery calcium (CAC) risk from routine chest CT scans that were taken for other purposes. This makes it possible to identify at-risk patients early, without extra scans, extra radiation or extra cost, so that preventive treatment can start before a cardiac event occurs.
+
+### Publications
+
+<div class="publications">
+{% bibliography --group_by none --query @*[project=DETECTAI] %}
+</div>
