@@ -9,14 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-responsible-and-safe-ai-lab-sdu",
-          title: "Responsible and Safe AI Lab @ SDU",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/Responsible%20and%20Safe%20AI%20Lab%20@%20SDU/";
-          },
-        },{id: "nav-projects",
+  },{id: "nav-projects",
           title: "Projects",
           description: "Research projects I lead or take part in.",
           section: "Navigation",
