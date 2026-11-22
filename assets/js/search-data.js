@@ -77,7 +77,7 @@ ninja.data = [{
               window.location.href = "/projects/detect_ai/";
             },},{id: "projects-trai",
           title: 'TRAI',
-          description: "Learn to Unlearn - Towards Responsible AI (2025–2028, Novo Nordisk Foundation)",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/trai/";
             },},{id: "teachings-tools-of-artificial-intelligence",
