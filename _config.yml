@@ -315,6 +315,7 @@ enable_publication_badges:
 filtered_bibtex_keywords:
   [
     abbr,
+    project,
     abstract,
     additional_info,
     altmetric,
