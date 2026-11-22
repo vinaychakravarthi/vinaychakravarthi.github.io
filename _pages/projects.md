@@ -5,9 +5,19 @@ permalink: /Projects/
 description: Research projects I lead or take part in.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
 horizontal: false
 ---
+
+<style>
+  /* equal-size project cards: same image height, same card height */
+  .projects .col { display: flex; }
+  .projects .col > a { display: flex; width: 100%; }
+  .projects .card { width: 100%; height: 100%; }
+  .projects .card figure, .projects .card picture { display: block; width: 100%; margin: 0; }
+  .projects .card img { display: block; width: 100% !important; max-width: none; height: 190px; object-fit: cover; }
+  .projects .card-body { display: flex; align-items: center; justify-content: center; text-align: center; }
+  .projects .card-title { margin: 0; text-align: center; }
+</style>
 
 <!-- pages/projects.md -->
 <div class="projects">
